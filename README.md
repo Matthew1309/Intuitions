@@ -3,3 +3,4 @@ As I develop intuitions for subjects, I would like to document them and hopefull
 
 # Index
 * LSTM
+	* Shape
