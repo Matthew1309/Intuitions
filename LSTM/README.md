@@ -39,3 +39,7 @@ at a time, in case there are multiple occuring variables.
 
 So finally we have the dimensions we need to shape our input data to:<br>
 X(n_total_rolls, length_to_feed_machine, n_rolls_at_a_time) 
+
+
+
+
