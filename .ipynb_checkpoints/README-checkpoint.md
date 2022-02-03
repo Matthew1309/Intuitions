@@ -3,7 +3,7 @@ As I develop intuitions for subjects, I would like to document them and hopefull
 
 # Index
 * **Linear_regression/**
-    * **t-Test/**
+    * **t-Test**
         * sc_toy_data
 	* Inuition via simple simple problem?
 * **Neural_networks/**
