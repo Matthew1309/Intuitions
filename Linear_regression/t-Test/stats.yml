@@ -6,16 +6,16 @@ channels:
   - r
 dependencies:
   - python=3.9
-  - mamba
-  - jupyterlab
-  - jupyterlab-git
-  - numpy
-  - pandas
-  - matplotlib
-  - r-irkernel
-  - r-rstatix
-  - r-ggpubr
-  - r-pals
-  - r-openxlsx
-  - r-ggplot2
-  - r-patchwork
+  - mamba=0.22.1
+  - jupyterlab=3.3.2
+  - jupyterlab-git=0.36.0
+  - numpy=1.21.2
+  - pandas=1.4.1
+  - matplotlib=3.5.1
+  - r-irkernel=0.8.15
+  - r-rstatix=0.7.0
+  - r-ggpubr=0.4.0
+  - r-pals=1.7
+  - r-openxlsx=4.2.3
+  - r-ggplot2=3.2.1
+  - r-patchwork=1.1.1
