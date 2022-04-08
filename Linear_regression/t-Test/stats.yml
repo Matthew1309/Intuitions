@@ -18,3 +18,4 @@ dependencies:
   - r-pals
   - r-openxlsx
   - r-ggplot2
+  - r-patchwork
