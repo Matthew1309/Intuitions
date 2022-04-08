@@ -1,0 +1,20 @@
+name: stats
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - python=3.9
+  - mamba
+  - jupyterlab
+  - jupyterlab-git
+  - numpy
+  - pandas
+  - matplotlib
+  - r-irkernel
+  - r-rstatix
+  - r-ggpubr
+  - r-pals
+  - r-openxlsx
+  - r-ggplot2

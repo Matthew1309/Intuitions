@@ -99,3 +99,22 @@ write.table(matrix.cell.meta.data,
 # End of making small toy dataset
 ###
 ```
+# 4/7/2022
+https://stackoverflow.com/questions/56460834/how-to-run-a-single-line-or-selected-code-in-a-jupyter-notebook-or-jupyterlab-ce
+This seems like a healful way to create an Rstudio like python kernal.
+
+```Settings --> Advanced Settings Editor --> JSON Settings Editor```
+then copy and paste this:
+```{
+            "command": "notebook:run-in-console",
+            "keys": [
+                "Ctrl Shift Enter"
+            ],
+            "selector": ".jp-Notebook.jp-mod-editMode"
+},```
+
+Walking through step by step needs to be worked through,
+but a nice jupyter notebook with R functionality has been installed
+and seems to be working nicely!
+
+# In ```t-Test.ipynb``` I walk through the process of doing a **Two sample t-test**.
