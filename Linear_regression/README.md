@@ -9,3 +9,8 @@ and how much variation is explained by each question. Is this a good mock proble
 I have been following a course called "An Introduction to Statistical Learning, with Applications in R (Second Edition)" (James, Witten, Hastie, Tibshirani - Springer 2021). This textbook is available at https://www.statlearning.com/. They actually provide some datasets, and give hints to some R programming languages.
 
 That being said, I think I would like to do some of this in Python and use my matplotlib skills to make plots like the ones in StatQuest https://www.youtube.com/watch?v=PaFPbb66DxQ.
+
+# Classification_Iris
+I added this intitially to practice linear regression, but I now realize this is actually a classification problem! I suppose I should actually follow along with the Hastie-Tibshirani video examples and make an R module for true LR.
+
+First thing I did here was plot the corr-scat-plots like they did in the tutorial. I really like this representation!
