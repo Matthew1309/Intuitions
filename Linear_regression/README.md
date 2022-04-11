@@ -4,3 +4,8 @@ I thought of how to test out linear regression explaination. Two question survey
 out if this person is a boy or a girl. Plot this where Q1 is X-axis, Y-axis is Q2, and color
 by actual gender. How do we draw a line through this data to always classify girls from boys,
 and how much variation is explained by each question. Is this a good mock problem?
+
+# Entry 2: Using the EDXWELCOME problem
+I have been following a course called "An Introduction to Statistical Learning, with Applications in R (Second Edition)" (James, Witten, Hastie, Tibshirani - Springer 2021). This textbook is available at https://www.statlearning.com/. They actually provide some datasets, and give hints to some R programming languages.
+
+That being said, I think I would like to do some of this in Python and use my matplotlib skills to make plots like the ones in StatQuest https://www.youtube.com/watch?v=PaFPbb66DxQ.

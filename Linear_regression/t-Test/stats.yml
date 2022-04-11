@@ -3,6 +3,7 @@ channels:
   - defaults
   - conda-forge
   - bioconda
+  - intel
   - r
 dependencies:
   - python=3.9
@@ -19,3 +20,5 @@ dependencies:
   - r-openxlsx=4.2.3
   - r-ggplot2=3.2.1
   - r-patchwork=1.1.1
+  - seaborn
+  - scikit-learn
