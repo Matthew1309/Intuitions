@@ -22,3 +22,4 @@ dependencies:
   - r-patchwork=1.1.1
   - seaborn
   - scikit-learn
+  - r-islr
