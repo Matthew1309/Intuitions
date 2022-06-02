@@ -1,0 +1,1490 @@
+0 The Elements of Style, when I reexamined it in 1957, seemed to me to contain rich deposits of gold.
+1 It was Will Strunk's parvum opus, his attempt to cut the vast tangle of English rhetoric down to size and write its rules and principles on the head of a pin.
+2 Will himself had hung the tag "little" on the book; he referred to it sardonically and with secret pride as "the little book," always giving the word "little" a special twist, as though he were putting a spin on a ball.
+3 In its original form, it was a forty-three page summation of the case for cleanliness, accuracy, and brevity in the use of English.
+4 Today, fifty-two years later, its vigor is unimpaired, and for sheer pith I think it probably sets a record that is not likely to be broken.
+5 Even after I got through tampering with it, it was still a tiny thing, a barely tarnished gem.
+6 Seven rules of usage, eleven principles of composition, a few matters of form, and a list of words and expressions commonly misused — that was the sum and substance of Professor Strunk's work.
+7 Somewhat audaciously, and in an attempt to give my publisher his money's worth, I added a chapter called "An Approach to Style," setting forth my own prejudices, my notions of error, my articles of faith.
+8 This chapter (Chapter V) is addressed particularly to those who feel that English prose composition is not only a necessary skill but a sensible pursuit as well — a way to spend one's days.
+9 I think Professor Strunk would not object to that.
+10 A second edition of the book was published in 1972.
+11 I have now completed a third revision.
+12 Chapter IV has been refurbished with words and expressions of a recent vintage; four rules of usage have been added to Chapter I.
+13 Professor Strunk was a positive man.
+14 His book contains rules of grammar phrased as direct orders.
+15 In the main I have not tried to soften his commands, or modify his pronouncements, or remove the special objects of his scorn.
+16 I have tried, instead, to preserve the flavor of his discontent while slightly enlarging the scope of the discussion.
+17 The Elements of Style does not pretend to survey the whole field.
+18 Rather it proposes to give in brief space the principal requirements of plain English style.
+19 It concentrates on fundamentals: the rules of usage and principles of composition most commonly violated.
+20 The reader will soon discover that these rules and principles are in the form of sharp commands, Sergeant Strunk snapping orders to his platoon.
+21 Do not join independent clauses with a comma." (Rule 5.) "Do not break sentences in two." (Rule 6.) "Use the active voice." (Rule 14.) "Omit needless words." (Rule 17.) "Avoid a succession of loose sentences." (Rule 18.) "In summaries, keep to one tense." (Rule 21.) Each rule or principle is followed by a short hortatory essay, and usually the exhortation is followed by, or interlarded with, examples in parallel columns — the true vs.
+22 From every line there peers out at me the puckish face of my professor, his short hair parted neatly in the middle and combed down over his forehead, his eyes blinking incessantly behind steel-rimmed spectacles as though he had just emerged into strong light, his lips nibbling each other like nervous horses, his smile shuttling to and fro under a carefully edged mustache.
+23 Omit needless words!" cries the author on page 23, and into that imperative Will Strunk really put his heart and soul.
+24 In the days when I was sitting in his class, he omitted so many needless words, and omitted them so forcibly and with such eagerness and obvious relish, that he often seemed in the position of having shortchanged himself — a man left with nothing more to say yet with time to fill, a radio prophet who had out-distanced the clock.
+25 Will Strunk got out of this predicament by a simple trick: he uttered every sentence three times.
+26 When he delivered his oration on brevity to the class, he leaned forward over his desk, grasped his coat lapels in his hands, and, in a husky, conspiratorial voice, said, "Rule Seventeen.
+27 Omit needless words!
+28 Omit needless words!
+29 Omit needless words!" He was a memorable man, friendly and funny.
+30 A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
+31 This requires not that the writer make all sentences short or avoid all detail and treat subjects only in outline, but that every word tell.
+32 There you have a short, valuable essay on the nature and beauty of brevity — fifty-nine words that could change the world.
+33 Having recovered from his adventure in prolixity (fifty nine words were a lot of words in the tight world of William Strunk Jr.), the professor proceeds to give a few quick lessons in pruning.
+34 Students learn to cut the dead-wood from "this is a subject that," reducing it to "this subject," a saving of three words.
+35 They learn to trim "used for fuel purposes" down to "used for fuel." They learn that they are being chatterboxes when they say "the question as to whether" and that they should just say "whether" — a saving of four words out of a possible five.
+36 The professor devotes a special paragraph to the vile expression the fact that, a phrase that causes him to quiver with revulsion.
+37 The expression, he says, should be "revised out of every sentence in which it occurs." But a shadow of gloom seems to hang over the page, and you feel that he knows how hopeless his cause is.
+38 I suppose I have written the fact that a thousand times in the heat of composition, revised it out maybe five hundred times in the cool aftermath.
+39 To be batting only .500 this late in the season, to fail half the time to connect with this fat pitch, saddens me, for it seems a betrayal of the man who showed me how to swing at it and made the swinging seem worthwhile.
+40 I treasure The Elements of Style for its sharp advice, but I treasure it even more for the audacity and self-confidence of its author.
+41 Will knew where he stood.
+42 He was so sure of where he stood, and made his position so clear and so plausible, that his peculiar stance has continued to invigorate me — and, I am sure, thousands of other ex-students — during the years that have intervened since our first encounter.
+43 He had a number of likes and dislikes that were almost as whimsical as the choice of a necktie, yet he made them seem utterly convincing.
+44 He disliked the word forceful and advised us to use forcible instead.
+45 I am told that the News editor was so charmed by the visit, if not by the word, that he ordered the student body buried, never to rise again.
+46 Studentry has taken its place.
+47 It's not much of an improvement, but it does sound less cadaverous, and it made Will Strunk quite happy.
+48 Some years ago, when the heir to the throne of England was a child, I noticed a headline in the Times about Bonnie Prince Charlie: "CHARLES' TONSILS OUT." Immediately Rule 1 leapt to mind.
+49 Form the possessive singular of nouns by adding 's.
+50 Follow this rule whatever the final consonant.
+51 He started his book with it.
+52 I commend Rule 1 to the Times, and I trust that Charles's throat, not Charles' throat, is in fine shape today.
+53 Style rules of this sort are, of course, somewhat a matter of individual preference, and even the established rules of grammar are open to challenge.
+54 Professor Strunk, although one of the most inflexible and choosy of men, was quick to acknowledge the fallacy of inflexibility and the danger of doctrine.
+55 It is an old observation," he wrote, "that the best writers sometimes disregard the rules of rhetoric.
+56 When they do so, however, the reader will usually find in the sentence some compensating merit, attained at the cost of the violation.
+57 Unless he is certain of doing as well, he will probably do best to follow the rules." It is encouraging to see how perfectly a book, even a dusty rule book, perpetuates and extends the spirit of a man.
+58 Will Strunk loved the clear, the brief, the bold, and his book is clear, brief, bold.
+59 Boldness is perhaps its chief distinguishing mark.
+60 On page 26, explaining one of his parallels, he says, "The lefthand version gives the impression that the writer is undecided or timid, apparently unable or afraid to choose one form of expression and hold to it." And his original Rule 11 was "Make definite assertions." That was Will all over.
+61 He scorned the vague, the tame, the colorless, the irresolute.
+62 He felt it was worse to be irresolute than to be wrong.
+63 If you don't know how to pronounce a word, say it loud!" This comical piece of advice struck me as sound at the time, and I still respect it.
+64 Why compound ignorance with inaudibility?
+65 Why run and hide?
+66 All through The Elements of Style one finds evidences of the author's deep sympathy for the reader.
+67 Will felt that the reader was in serious trouble most of the time, floundering in a swamp, and that it was the duty of anyone attempting to write English to drain this swamp quickly and get the reader up on dry ground, or at least to throw a rope.
+68 In revising the text, I have tried to hold steadily in mind this belief of his, this concern for the bewildered reader.
+69 In the English classes of today, "the little book" is surrounded by longer, lower textbooks — books with permissive steering and automatic transitions.
+70 Perhaps the book has become something of a curiosity.
+71 To me, it still seems to maintain its original poise, standing, in a drafty time, erect, resolute, and assured.
+72 I still find the Strunkian wisdom a comfort, the Strunkian humor a delight, and the Strunkian attitude toward right-and- wrong a blessing undisguised.
+73 Form the possessive singular of nouns by adding 's.
+74 Follow this rule whatever the final consonant.
+75 Indefinite pronouns, however, use the apostrophe to show possession.
+76 A common error is to write it's for its, or vice versa.
+77 The first is a contraction, meaning "it is." The second is a possessive.
+78 It's a wise dog that scratches its own fleas.
+79 In a series of three or more terms with a single conjunction, use a comma after each term except the last.
+80 This comma is often referred to as the "serial" comma.
+81 In the names of business firms the last comma is usually omitted.
+82 Follow the usage of the individual firm.
+83 Enclose parenthetic expressions between commas.
+84 The best way to see a country, unless you are pressed for time, is to travel on foot.
+85 This rule is difficult to apply; it is frequently hard to decide whether a single word, such as however, or a brief phrase is or is not parenthetic.
+86 If the interruption to the flow of the sentence is but slight, the commas may be safely omitted.
+87 But whether the interruption is slight or considerable, never omit one comma and leave the other.
+88 My brother you will be pleased to hear, is now in perfect health.
+89 Dates usually contain parenthetic words or figures.
+90 A name or a title in direct address is parenthetic.
+91 If, Sir, you refuse, I cannot predict what will happen.
+92 Well, Susan, this is a fine mess you are in.
+93 The abbreviations etc., i.e., and e.g., the abbreviations for academic degrees, and titles that follow a name are parenthetic and should be punctuated accordingly.
+94 Letters, packages, etc., should go here.
+95 Horace Fulsome, Ph.D., presided.
+96 No comma, however, should separate a noun from a restrictive term of identification.
+97 James Wright Jr.
+98 Nonrestrictive relative clauses are parenthetic, as are similar clauses introduced by conjunctions indicating time or place.
+99 Commas are therefore needed.
+100 A nonrestrictive clause is one that does not serve to identify or define the antecedent noun.
+101 The audience, which had at first been indifferent, became more and more interested.
+102 In 1769, when Napoleon was born, Corsica had but recently been acquired by France.
+103 Nether Stowey, where Coleridge wrote The Rime of the Ancient Mariner, is a few miles from Bridgewater.
+104 In these sentences, the clauses introduced by which, when, and where are nonrestrictive; they do not limit or define, they merely add something.
+105 In the first example, the clause introduced by which does not serve to tell which of several possible audiences is meant; the reader presumably knows that already.
+106 The clause adds, parenthetically, a statement supplementing that in the main clause.
+107 Each of the three sentences is a combination of two statements that might have been made independently.
+108 The audience was at first indifferent.
+109 Later it became more and more interested.
+110 Napoleon was born in 1769.
+111 At that time Corsica had but recently been acquired by France.
+112 Coleridge wrote The Rime of the Ancient Mariner at Nether Stowey.
+113 Nether Stowey is a few miles from Bridgewater.
+114 Restrictive clauses, by contrast, are not parenthetic and are not set off by commas.
+115 Thus, People who live in glass houses shouldn't throw stones.
+116 Here the clause introduced by who does serve to tell which people are meant; the sentence, unlike the sentences above, cannot be split into two independent statements.
+117 The same principle of comma use applies to participial phrases and to appositives.
+118 Place a comma before a conjunction introducing an independent clause.
+119 The early records of the city have disappeared, and the story of its first years can no longer be reconstructed.
+120 The situation is perilous, but there is still one chance of escape.
+121 Two-part sentences of which the second member is introduced by as (in the sense of "because"), for, or, nor, or while (in the sense of "and at the same time") likewise require a comma before the conjunction.
+122 If a dependent clause, or an introductory phrase requiring to be set off by a comma, precedes the second independent clause, no comma is needed after the conjunction.
+123 The situation is perilous, but if we are prepared to act promptly, there is still one chance of escape.
+124 When the subject is the same for both clauses and is expressed only once, a comma is useful if the connective is but.
+125 When the connective is and, the comma should be omitted if the relation between the two statements is close or immediate.
+126 I have heard the arguments, but am still unconvinced.
+127 He has had several years' experience and is thoroughly competent.
+128 Do not join independent clauses with a comma.
+129 If two or more clauses grammatically complete and not joined by a conjunction are to form a single compound sentence, the proper mark of punctuation is a semicolon.
+130 Mary Shelley's works are entertaining; they are full of engaging ideas.
+131 It is nearly half past five; we cannot reach town before dark.
+132 It is, of course, equally correct to write each of these as two sentences, replacing the semicolons with periods.
+133 Mary Shelley's works are entertaining.
+134 They are full of engaging ideas.
+135 It is nearly half past five.
+136 We cannot reach town before dark.
+137 If a conjunction is inserted, the proper mark is a comma.
+138 It is nearly half past five, and we cannot reach town before dark.
+139 A comparison of the three forms given above will show clearly the advantage of the first.
+140 It is, at least in the examples given, better than the second form because it suggests the close relationship between the two statements in a way that the second does not attempt, and better than the third because it is briefer and therefore more forcible.
+141 Indeed, this simple method of indicating relationship between statements is one of the most useful devices of composition.
+142 The relationship, as above, is commonly one of cause and consequence.
+143 Note that if the second clause is preceded by an adverb, such as accordingly, besides, then, therefore, or thus, and not by a conjunction, the semicolon is still required.
+144 I had never been in the place before; besides, it was dark as a tomb.
+145 An exception to the semicolon rule is worth noting here.
+146 A comma is preferable when the clauses are very short and alike in form, or when the tone of the sentence is easy and conversational.
+147 Man proposes, God disposes.
+148 The gates swung apart, the bridge fell, the portcullis was drawn up.
+149 I hardly knew him, he was so changed.
+150 Here today, gone tomorrow.
+151 Do not break sentences in two.
+152 In other words, do not use periods for commas.
+153 I met them on a Cunard liner many years ago.
+154 Coming home from Liverpool to New York.
+155 She was an interesting talker.
+156 A woman who had traveled all over the world and lived in half a dozen countries.
+157 In both these examples, the first period should be replaced by a comma and the following word begun with a small letter.
+158 No reply.
+159 The writer must, however, be certain that the emphasis is warranted, lest a clipped sentence seem merely a blunder in syntax or in punctuation.
+160 Generally speaking, the place for broken sentences is in dialogue, when a character happens to speak in a clipped or fragmentary way.
+161 Rules 3, 4, 5, and 6 cover the most important principles that govern punctuation.
+162 They should be so thoroughly mastered that their application becomes second nature.
+163 Use a colon after an independent clause to introduce a list of particulars, an appositive, an amplification, or an illustrative quotation.
+164 A colon tells the reader that what follows is closely related to the preceding clause.
+165 The colon has more effect than the comma, less power to separate than the semicolon, and more formality than the dash.
+166 It usually follows an independent clause and should not separate a verb from its complement or a preposition from its object.
+167 The examples in the lefthand column, below, are wrong; they should be rewritten as in the righthand column.
+168 Your dedicated whittler requires: a knife, a piece of wood, and a back porch.
+169 Understanding is that penetrating quality of knowledge that grows from: theory, practice, conviction, assertion, error, and humiliation.
+170 Your dedicated whittler requires three props: a knife, a piece of wood, and a back porch.
+171 Understanding is that penetrating quality of knowledge that grows from theory, practice, conviction, assertion, error, and humiliation.
+172 Join two independent clauses with a colon if the second interprets or amplifies the first.
+173 But even so, there was a directness and dispatch about animal burial: there was no stopover in the undertaker's foul parlor, no wreath or spray.
+174 A colon may introduce a quotation that supports or contributes to the preceding clause.
+175 Dear Mr.
+176 Use a dash to set off an abrupt break or interruption and to announce a long appositive or summary.
+177 A dash is a mark of separation stronger than a comma, less formal than a colon, and more relaxed than parentheses.
+178 His first thought on getting out of bed — if he had any thought at all — was to get back in again.
+179 The rear axle began to make a noise — a grinding, chattering, teeth-gritting rasp.
+180 The increasing reluctance of the sun to rise, the extra nip in the breeze, the patter of shed leaves dropping — all the evidences of fall drifting into winter were clearer each day.
+181 Use a dash only when a more common mark of punctuation seems inadequate.
+182 Her father's suspicions proved well founded — it was not Edward she cared for — it was San Francisco.
+183 Her father's suspicions proved well founded.
+184 It was not Edward she cared for, it was San Francisco.
+185 Violence, the kind you see on television, is not honestly violent.
+186 There lies its harm.
+187 The number of the subject determines the number of the verb.
+188 Words that intervene between subject and verb do not affect the number of the verb.
+189 The bittersweet flavor of youth — its trials, its joys, its adventures, its challenges — are not soon forgotten.
+190 The bittersweet flavor of youth — its trials, its joys, its adventures, its challenges — is not soon forgotten.
+191 A common blunder is the use of a singular verb form in a relative clause following "one of..." or a similar expression when the relative is the subject.
+192 Everybody thinks he has a unique sense of humor.
+193 Although both clocks strike cheerfully, neither keeps good time.
+194 With none, use the singular verb when the word means "no one" or "not one." None of us are perfect.
+195 None of us is perfect.
+196 A plural verb is commonly used when none suggests more than one thing or person.
+197 None are so fallible as those who are sure they're right.
+198 A compound subject formed of two or more nouns joined by and almost always requires a plural verb.
+199 The walrus and the carpenter were walking close at hand.
+200 But certain compounds, often cliches, are so inseparable they are considered a unit and so take a singular verb, as do compound subjects qualified by each or every.
+201 The long and the short of it is ...
+202 Bread and butter was all she served.
+203 Give and take is essential to a happy household.
+204 Every window, picture, and mirror was smashed.
+205 A singular subject remains singular even if other nouns are connected to it by with, as well as, in addition to, except, together with, and no less than.
+206 His speech as well as his manner is objectionable.
+207 A linking verb agrees with the number of its subject.
+208 What is wanted is a few more pairs of hands.
+209 The trouble with truth is its many varieties.
+210 Some nouns that appear to be plural are usually construed as singular and given a singular verb.
+211 Politics is an art, not a science.
+212 The Republican Headquarters is on this side of the tracks.
+213 In these cases the writer must simply learn the idioms.
+214 The contents of a book is singular.
+215 The contents of a jar may be either singular or plural, depending on what's in the jar — jam or marbles.
+216 Use the proper case of pronoun.
+217 The personal pronouns, as well as the pronoun who, change form as they function as subject or object.
+218 Will Jane or he be hired, do you think?
+219 The culprit, it turned out, was he.
+220 We heavy eaters would rather walk than ride.
+221 Who knocks?
+222 Give this work to whoever looks idle.
+223 In the last example, whoever is the subject of looks idle; the object of the preposition to is the entire clause whoever looks idle.
+224 When who introduces a subordinate clause, its case depends on its function in that clause.
+225 Virgil Soames is the candidate whom we think will win.
+226 Virgil Soames is the candidate who we hope to elect.
+227 Virgil Soames is the candidate who we think will win.
+228 Sandy writes better than I.
+229 I think Horace admires Jessica more than I.
+230 I think Horace admires Jessica more than I do.
+231 Polly loves cake more than me.
+232 Polly loves cake more than she loves me.
+233 The objective case is correct in the following examples.
+234 The ranger offered Shirley and him some advice on campsites.
+235 They came to meet the Baldwins and us.
+236 Let's talk it over between us, then, you and me.
+237 Whom should I ask?
+238 A group of us taxpayers protested.
+239 Us in the last example is in apposition to taxpayers, the object of the preposition of.
+240 The wording, although grammatically defensible, is rarely apt.
+241 A group of us protested as taxpayers" is better, if not exactly equivalent.
+242 Use the simple personal pronoun as a subject.
+243 Blake and myself stayed home.
+244 Blake and I stayed home.
+245 Howard and yourself brought the lunch, I thought.
+246 Howard and you brought the lunch, I thought.
+247 The possessive case of pronouns is used to show ownership.
+248 It has two forms: the adjectival modifier, your hat, and the noun form, a hat of yours.
+249 The dog has buried one of your gloves and one of mine in the flower bed.
+250 Gerunds usually require the possessive case.
+251 Mother objected to our driving on the icy roads.
+252 A present participle as a verbal, on the other hand, takes the objective case.
+253 They heard him singing in the shower.
+254 The difference between a verbal participle and a gerund is not always obvious, but note what is really said in each of the following.
+255 Do you mind me asking a question?
+256 Do you mind my asking a question?
+257 In the first sentence, the queried objection is to me, as opposed to other members of the group, asking a question.
+258 In the second example, the issue is whether a question may be asked at all.
+259 A participial phrase at the beginning of a sentence must refer to the grammatical subject.
+260 Walking slowly down the road, he saw a woman accompanied by two children.
+261 The word walking refers to the subject of the sentence, not to the woman.
+262 To make it refer to the woman, the writer must recast the sentence.
+263 He saw a woman, accompanied by two children, walking slowly down the road.
+264 Participial phrases preceded by a conjunction or by a preposition, nouns in apposition, adjectives, and adjective phrases come under the same rule if they begin the sentence.
+265 On arriving in Chicago, his friends met him at the station.
+266 A soldier of proved valor, they entrusted him with the defense of the city.
+267 Young and inexperienced, the task seemed easy to me.
+268 Without a friend to counsel him, the temptation proved irresistible.
+269 On arriving in Chicago, he was met at the station by his friends.
+270 A soldier of proved valor, he was entrusted with the defense of the city.
+271 Young and inexperienced, I thought the task easy.
+272 Without a friend to counsel him, he found the temptation irresistible.
+273 Wondering irresolutely what to do next, the clock struck twelve.
+274 Choose a suitable design and hold to it.
+275 A basic structural design underlies every kind of writing.
+276 Writers will in part follow this design, in part deviate from it, according to their skills, their needs, and the unexpected events that accompany the act of composition.
+277 Writing, to be effective, must follow closely the thoughts of the writer, but not necessarily in the order in which those thoughts occur.
+278 This calls for a scheme of procedure.
+279 In some cases, the best design is no design, as with a love letter, which is simply an outpouring, or with a casual essay, which is a ramble.
+280 But in most cases, planning must be a deliberate prelude to writing.
+281 The first principle of composition, therefore, is to foresee or determine the shape of what is to come and pursue that shape.
+282 A sonnet is built on a fourteen-line frame, each line containing five feet.
+283 Hence, sonneteers know exactly where they are headed, although they may not know how to get there.
+284 Most forms of composition are less clearly defined, more flexible, but all have skeletons to which the writer will bring the flesh and the blood.
+285 The more clearly the writer perceives the shape, the better are the chances of success.
+286 Make the paragraph the unit of composition.
+287 The paragraph is a convenient unit; it serves all forms of literary work.
+288 As long as it holds together, a paragraph may be of any length — a single, short sentence or a passage of great duration.
+289 If the subject on which you are writing is of slight extent, or if you intend to treat it briefly, there may be no need to divide it into topics.
+290 Thus, a brief description, a brief book review, a brief account of a single incident, a narrative merely outlining an action, the setting forth of a single idea — any one of these is best written in a single paragraph.
+291 After the paragraph has been written, examine it to see whether division will improve it.
+292 Ordinarily, however, a subject requires division into topics, each of which should be dealt with in a paragraph.
+293 The beginning of each paragraph is a signal that a new step in the development of the subject has been reached.
+294 As a rule, single sentences should not be written or printed as paragraphs.
+295 The application of this rule when dialogue and narrative are combined is best learned from examples in well-edited works of fiction.
+296 Sometimes a writer, seeking to create an effect of rapid talk or for some other reason, will elect not to set off each speech in a separate paragraph and instead will run speeches together.
+297 The common practice, however, and the one that serves best in most instances, is to give each speech a paragraph of its own.
+298 As a rule, begin each paragraph either with a sentence that suggests the topic or with a sentence that helps the transition.
+299 If a paragraph forms part of a larger composition, its relation to what precedes, or its function as a part of the whole, may need to be expressed.
+300 This can sometimes be done by a mere word or phrase (again, therefore, for the same reason) in the first sentence.
+301 Sometimes, however, it is expedient to get into the topic slowly, by way of a sentence or two of introduction or transition.
+302 In narration and description, the paragraph sometimes begins with a concise, comprehensive statement serving to hold together the details that follow.
+303 The breeze served us admirably.
+304 The campaign opened with a series of reverses.
+305 The next ten or twelve pages were filled with a curious set of entries.
+306 But when this device, or any device, is too often used, it becomes a mannerism.
+307 More commonly, the opening sentence simply indicates by its subject the direction the paragraph is to take.
+308 At length I thought I might return toward the stockade.
+309 He picked up the heavy lamp from the table and began to explore.
+310 Another flight of steps, and they emerged on the roof.
+311 In animated narrative, the paragraphs are likely to be short and without any semblance of a topic sentence, the writer rushing headlong, event following event in rapid succession.
+312 The break between such paragraphs merely serves the purpose of a rhetorical pause, throwing into prominence some detail of the action.
+313 In general, remember that paragraphing calls for a good eye as well as a logical mind.
+314 Enormous blocks of print look formidable to readers, who are often reluctant to tackle them.
+315 Therefore, breaking long paragraphs in two, even if it is not necessary to do so for sense, meaning, or logical development, is often a visual help.
+316 But remember, too, that firing off many short paragraphs in quick succession can be distracting.
+317 Paragraph breaks used only for show read like the writing of commerce or of display advertising.
+318 Moderation and a sense of order should be the main considerations in paragraphing.
+319 Use the active voice.
+320 The active voice is usually more direct and vigorous than the passive: I shall always remember my first visit to Boston.
+321 The latter sentence is less direct, less bold, and less concise.
+322 This rule does not, of course, mean that the writer should entirely discard the passive voice, which is frequently convenient and sometimes necessary.
+323 The dramatists of the Restoration are little esteemed today.
+324 Modern readers have little esteem for the dramatists of the Restoration.
+325 The first would be the preferred form in a paragraph on the dramatists of the Restoration, the second in a paragraph on the tastes of modern readers.
+326 The habitual use of the active voice, however, makes for forcible writing.
+327 This is true not only in narrative concerned principally with action but in writing of any kind.
+328 Many a tame sentence of description or exposition can be made lively and emphatic by substituting a transitive in the active voice for some such perfunctory expression as there is or could be heard.
+329 There were a great number of dead leaves lying on the ground.
+330 At dawn the crowing of a rooster could be heard.
+331 The reason he left college was that his health became impaired.
+332 It was not long before she was very sorry that she had said what she had.
+333 Dead leaves covered the ground.
+334 The cock's crow came with dawn.
+335 Failing health compelled him to leave college.
+336 She soon repented her words.
+337 Note, in the examples above, that when a sentence is made stronger, it usually becomes shorter.
+338 Thus, brevity is a by-product of vigor.
+339 Put statements in positive form.
+340 Make definite assertions.
+341 Avoid tame, colorless, hesitating, noncommittal language.
+342 Use the word not as a means of denial or in antithesis, never as a means of evasion.
+343 He was not very often on time.
+344 He usually came late.
+345 She did not think that studying Latin was a sensible way to use one's time.
+346 The Taming of the Shrew is rather weak in spots.
+347 Shakespeare does not portray Katharine as a very admirable character, nor does Bianca remain long in memory as an important character in Shakespeare's works.
+348 She thought the study of Latin a waste of time.
+349 The women in The Taming of the Shrew are unattractive.
+350 Katharine is disagreeable, Bianca insignificant.
+351 The last example, before correction, is indefinite as well as negative.
+352 The corrected version, consequently, is simply a guess at the writer's intention.
+353 All three examples show the weakness inherent in the word not.
+354 Consciously or unconsciously, the reader is dissatisfied with being told only what is not; the reader wishes to be told what is.
+355 Hence, as a rule, it is better to express even a negative in positive form.
+356 Placing negative and positive in opposition makes for a stronger structure.
+357 Not charity, but simple justice.
+358 Not that I loved Caesar less, but that I loved Rome more.
+359 Ask not what your country can do for you — ask what you can do for your country.
+360 Negative words other than not are usually strong.
+361 Her loveliness I never knew / Until she smiled on me.
+362 Statements qualified with unnecessary auxiliaries or conditionals sound irresolute.
+363 If you would let us know the time of your arrival, we would be happy to arrange your transportation from the airport.
+364 Applicants can make a good impression by being neat and punctual.
+365 Plath may be ranked among those modem poets who died young.
+366 If you will let us know the time of your arrival, we shall be happy to arrange your transportation from the airport.
+367 Applicants will make a good impression if they are neat and punctual.
+368 Plath was one of those modern poets who died young.
+369 If your every sentence admits a doubt, your writing will lack authority.
+370 Save the auxiliaries would, should, could, may, might, and can for situations involving real uncertainty.
+371 Use definite, specific, concrete language.
+372 Prefer the specific to the general, the definite to the vague, the concrete to the abstract.
+373 A period of unfavorable weather set in.
+374 It rained every day for a week.
+375 He showed satisfaction as he took possession of his well-earned reward.
+376 He grinned as he pocketed the coin.
+377 The greatest writers — Homer, Dante, Shakespeare — are effective largely because they deal in particulars and report the details that matter.
+378 Their words call up pictures.
+379 Daisy and I in time found asylum in a small menagerie down by the railroad tracks.
+380 It belonged to a gentle alcoholic ne'er-do- well, who did nothing all day long but drink bathtub gin in rickeys and play solitaire and smile to himself and talk to his animals.
+381 He had a little, stunted red vixen and a deodorized skunk, a parrot from Tahiti that spoke Parisian French, a woebegone coyote, and two capuchin monkeys, so serious and humanized, so small and sad and sweet, and so religious-looking with their tonsured heads that it was impossible not to think their gibberish was really an ordered language with a grammar that someday some philologist would understand.
+382 Gran knew about our visits to Mr.
+383 Murphy and she did not object, for it gave her keen pleasure to excoriate him when we came home.
+384 His vice was not a matter of guesswork; it was an established fact that he was half-seas over from dawn till midnight.
+385 With the black Irish," said Gran, "the taste for drink is taken in with the mother's milk and is never mastered.
+386 Oh, I know all about those promises to join the temperance movement and not to touch another drop.
+387 Copyright © 1964 by Jean Stafford.
+388 Copyright renewed © 1992 by Nora Cosgrove.
+389 Reprinted by permission of Farrar, Straus & Giroux, Inc.
+390 It is not that every detail is given — that would be impossible, as well as to no purpose — but that all the significant details are given, and with such accuracy and vigor that readers, in imagination, can project themselves into the scene.
+391 In exposition and in argument, the writer must likewise never lose hold of the concrete; and even when dealing with general principles, the writer must furnish particular instances of their application.
+392 In proportion as men delight in battles, bullfights, and combats of gladiators, will they punish by hanging, burning, and the rack.
+393 To show what happens when strong writing is deprived of its vigor, George Orwell once took a passage from the Bible and drained it of its blood.
+394 On the left, below, is Orwell's translation; on the right, the verse from Ecclesiastes (King James Version).
+395 Objective consideration of contemporary phenomena compels the conclusion that success or failure in competitive activities exhibits no tendency to be commensurate with innate capacity, but that a considerable element of the unpredictable must inevitably be taken into account.
+396 Omit needless words.
+397 I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happeneth to them all.
+398 Vigorous writing is concise.
+399 A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
+400 This requires not that the writer make all sentences short, or avoid all detail and treat subjects only in outline, but that every word tell.
+401 Many expressions in common use violate this principle.
+402 Her story is a strange one.
+403 Her story is strange.
+404 The fact that is an especially debilitating expression.
+405 It should be revised out of every sentence in which it occurs.
+406 Who is, which was, and the like are often superfluous.
+407 A common way to fall into wordiness is to present a single complex idea, step by step, in a series of sentences that might to advantage be combined into one.
+408 Macbeth was very ambitious.
+409 This led him to wish to become king of Scotland.
+410 The witches told him that this wish of his would come true.
+411 The king of Scotland at this time was Duncan.
+412 Encouraged by his wife, Macbeth murdered Duncan.
+413 He was thus enabled to succeed Duncan as king.
+414 Encouraged by his wife, Macbeth achieved his ambition and realized the prediction of the witches by murdering Duncan and becoming king of Scotland in his place.
+415 Avoid a succession of loose sentences.
+416 This rule refers especially to loose sentences of a particular type: those consisting of two clauses, the second introduced by a conjunction or relative.
+417 A writer may err by making sentences too compact and periodic.
+418 An occasional loose sentence prevents the style from becoming too formal and gives the reader a certain relief.
+419 Consequently, loose sentences are common in easy, unstudied writing.
+420 The danger is that there may be too many of them.
+421 An unskilled writer will sometimes construct a whole paragraph of sentences of this kind, using as connectives and, but, and, less frequently, who, which, when, where, and while, these last in nonrestrictive senses.
+422 Mr.Edward Appleton was the soloist, and the Boston Symphony Orchestra furnished the instrumental music.
+423 The former showed himself to be an artist of the first rank, while the latter proved itself fully deserving of its high reputation.
+424 The interest aroused by the series has been very gratifying to the Committee, and it is planned to give a similar series annually hereafter.
+425 The fourth concert will be given on Tuesday, May 10, when an equally attractive program will be presented.
+426 Apart from its triteness and emptiness, the paragraph above is bad because of the structure of its sentences, with their mechanical symmetry and singsong.
+427 Compare these sentences from the chapter "What I Believe" in E.
+428 M.Not an aristocracy of power, based upon rank and influence, but an aristocracy of the sensitive, the considerate and the plucky.
+429 They represent the true human tradition, the one permanent victory of our queer race over cruelty and chaos.
+430 Thousands of them perish in obscurity, a few are great names.
+431 M.Forster, reprinted by permission of Harcourt, Inc.
+432 Also, by permission of The Provost and Scholars of King's College, Cambridge, and The Society of Authors as the literary representatives of the E.
+433 M.Express coordinate ideas in similar form.
+434 This principle, that of parallel construction, requires that expressions similar in content and function be outwardly similar.
+435 The likeness of form enables the reader to recognize more readily the likeness of content and function.
+436 The familiar Beatitudes exemplify the virtue of parallel construction.
+437 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+438 Blessed are they that mourn: for they shall be comforted.
+439 Blessed are the meek: for they shall inherit the earth.
+440 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+441 The unskilled writer often violates this principle, mistakenly believing in the value of constantly varying the form of expression.
+442 When repeating a statement to emphasize it, the writer may need to vary its form.
+443 Otherwise, the writer should follow the principle of parallel construction.
+444 Formerly, science was taught by the textbook method, while now the laboratory method is employed.
+445 Formerly, science was taught by the textbook method; now it is taught by the laboratory method.
+446 The lefthand version gives the impression that the writer is undecided or timid, apparently unable or afraid to choose one form of expression and hold to it.
+447 The righthand version shows that the writer has at least made a choice and abided by it.
+448 By this principle, an article or a preposition applying to all the members of a series must either be used only before the first term or else be repeated before each term.
+449 When such words are joined in a compound construction, all the appropriate prepositions must be included, unless they are the same.
+450 His speech was marked by disagreement and scorn for his opponent's position.
+451 His speech was marked by disagreement with and scorn for his opponent's position.
+452 Correlative expressions (both, and; not, but; not only, but also; either, or; first, second, third; and the like) should be followed by the same grammatical construction.
+453 Many violations of this rule can be corrected by rearranging the sentence.
+454 It was both a long ceremony and very tedious.
+455 The ceremony was both long and tedious.
+456 A time not for words but action.
+457 A time not for words but for action.
+458 Either you must grant his request or incur his ill will.
+459 My objections are, first, the injustice of the measure; second, that it is unconstitutional.
+460 You must either grant his request or incur his ill will.
+461 My objections are, first, that the measure is unjust; second, that it is unconstitutional.
+462 It may be asked, what if you need to express a rather large number of similar ideas — say, twenty?
+463 Must you write twenty consecutive sentences of the same pattern?
+464 On closer examination, you will probably find that the difficulty is imaginary — that these twenty ideas can be classified in groups, and that you need apply the principle only within each group.
+465 Otherwise, it is best to avoid the difficulty by putting statements in the form of a table.
+466 Keep related words together.
+467 The position of the words in a sentence is the principal means of showing their relationship.
+468 Confusion and ambiguity result when words are badly placed.
+469 The writer must, therefore, bring together the words and groups of words that are related in thought and keep apart those that are not so related.
+470 He noticed a large stain in the rug that was right in the center.
+471 You can call your mother in London and tell her all about George's taking you out to dinner for just two dollars.
+472 New York's first commercial human-sperm bank opened Friday with semen samples from eighteen men frozen in a stainless steel tank.
+473 He noticed a large stain right in the center of the rug.
+474 For just two dollars you can call your mother in London and tell her all about George's taking you out to dinner.
+475 New York's first commercial human- sperm bank opened Friday when semen samples were taken from eighteen men.
+476 The samples were then frozen and stored in a stainless steel tank.
+477 In the lefthand version of the first example, the reader has no way of knowing whether the stain was in the center of the rug or the rug was in the center of the room.
+478 In the lefthand version of the third example, the reader's heart goes out to those eighteen poor fellows frozen in a steel tank.
+479 The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning.
+480 Toni Morrison, in Beloved, writes about characters who have escaped from slavery but are haunted by its heritage.
+481 A dog, if you fail to discipline him, becomes a household pest.
+482 In Beloved, Toni Morrison writes about characters who have escaped from slavery but are haunted by its heritage.
+483 Unless disciplined, a dog becomes a household pest.
+484 Interposing a phrase or a clause, as in the lefthand examples above, interrupts the flow of the main clause.
+485 This interruption, however, is not usually bothersome when the flow is checked only by a relative clause or by an expression in apposition.
+486 Sometimes, in periodic sentences, the interruption is a deliberate device for creating suspense.
+487 There was a stir in the audience that suggested disapproval.
+488 He wrote three articles about his adventures in Spain, which were published in Harper's Magazine.
+489 This is a portrait of Benjamin Harrison, who became President in 1889.
+490 He was the grandson of William Henry Harrison.
+491 A stir that suggested disapproval swept the audience.
+492 He published three articles in Harper's Magazine about his adventures in Spain.
+493 This is a portrait of Benjamin Harrison, grandson of William Henry Harrison, who became President in 1889.
+494 If the antecedent consists of a group of words, the relative comes at the end of the group, unless this would cause ambiguity.
+495 If several expressions modify the same word, they should be arranged so that no wrong relation is suggested.
+496 All the members were not present.
+497 Not all the members were present.
+498 She only found two mistakes.
+499 She found only two mistakes.
+500 The director said he hoped all members would give generously to the Fund at a meeting of the committee yesterday.
+501 Major R.
+502 E.Joyce will give a lecture on Tuesday evening in Bailey Hall, to which the public is invited on "My Experiences in Mesopotamia" at 8:00 P.M.
+503 At a meeting of the committee yesterday, the director said he hoped all members would give generously to the Fund.
+504 On Tuesday evening at eight, Major R.
+505 E.Joyce will give a lecture in Bailey Hall on "My Experiences in Mesopotamia." The public is invited.
+506 Note, in the last lefthand example, how swiftly meaning departs when words are wrongly juxtaposed.
+507 In summaries, keep to one tense.
+508 In summarizing the action of a drama, use the present tense.
+509 In summarizing a poem, story, or novel, also use the present, though you may use the past if it seems more natural to do so.
+510 If the summary is in the present tense, antecedent action should be expressed by the perfect; if in the past, by the past perfect.
+511 Chance prevents Friar John from delivering Friar Lawrence's letter to Romeo.
+512 Meanwhile, owing to her father's arbitrary change of the day set for her wedding, Juliet has been compelled to drink the potion on Tuesday night, with the result that Balthasar informs Romeo of her supposed death before Friar Lawrence learns of the nondelivery of the letter.
+513 But whichever tense is used in the summary, a past tense in indirect discourse or in indirect question remains unchanged.
+514 The Friar confesses that it was he who married them.
+515 Apart from the exceptions noted, the writer should use the same tense throughout.
+516 Shifting from one tense to another gives the appearance of uncertainty and irresolution.
+517 In presenting the statements or the thought of someone else, as in summarizing an essay or reporting a speech, do not overwork such expressions as "he said," "she stated," "the speaker added," "the speaker then went on to say," "the author also thinks." Indicate clearly at the outset, once for all, that what follows is summary, and then waste no words in repeating the notification.
+518 In notebooks, in newspapers, in handbooks of literature, summaries of one kind or another may be indispensable, and for children in primary schools retelling a story in their own words is a useful exercise.
+519 But in the criticism or interpretation of literature, be careful to avoid dropping into summary.
+520 It may be necessary to devote one or two sentences to indicating the subject, or the opening situation, of the work being discussed, or to cite numerous details to illustrate its qualities.
+521 But you should aim at writing an orderly discussion supported by evidence, not a summary with occasional comment.
+522 Similarly, if the scope of the discussion includes a number of works, as a rule it is better not to take them up singly in chronological order but to aim from the beginning at establishing general conclusions.
+523 Place the emphatic words of a sentence at the end.
+524 The proper place in the sentence for the word or group of words that the writer desires to make most prominent is usually the end.
+525 Humanity has hardly advanced in fortitude since that time, though it has advanced in many other ways.
+526 This steel is principally used for making razors, because of its hardness.
+527 Since that time, humanity has advanced in many ways, but it has hardly advanced in fortitude.
+528 Because of its hardness, this steel is used principally for making razors.
+529 The word or group of words entitled to this position of prominence is usually the logical predicate — that is, the new element in the sentence, as it is in the second example.
+530 The effectiveness of the periodic sentence arises from the prominence it gives to the main statement.
+531 With these hopes and in this belief I would urge you, laying aside all hindrance, thrusting away all private aims, to devote yourself unswervingly and unflinchingly to the vigorous and successful prosecution of this war.
+532 The other prominent position in the sentence is the beginning.
+533 Any element in the sentence other than the subject becomes emphatic when placed first.
+534 Deceit or treachery she could never forgive.
+535 Vast and rude, fretted by the action of nearly three thousand years, the fragments of this architecture may often seem, at first sight, like works of nature.
+536 Home is the sailor.
+537 A subject coming first in its sentence may be emphatic, but hardly by its position alone.
+538 To receive special emphasis, the subject of a sentence must take the position of the predicate.
+539 Through the middle of the valley flowed a winding stream.
+540 The principle that the proper place for what is to be made most prominent is the end applies equally to the words of a sentence, to the sentences of a paragraph, and to the paragraphs of a composition.
+541 If you use a colloquialism or a slang word or phrase, simply use it; do not draw attention to it by enclosing it in quotation marks.
+542 To do so is to put on airs, as though you were inviting the reader to join you in a select society of those who know better.
+543 Exclamations.
+544 Do not attempt to emphasize simple statements by using a mark of exclamation.
+545 It was a wonderful show!
+546 It was a wonderful show.
+547 The exclamation mark is to be reserved for use after true exclamations or commands.
+548 What a wonderful show!
+549 Halt!
+550 Headings.
+551 If a manuscript is to be submitted for publication, leave plenty of space at the top of page 1.
+552 The editor will need this space to write directions to the compositor.
+553 Place the heading, or title, at least a fourth of the way down the page.
+554 Leave a blank line, or its equivalent in space, after the heading.
+555 Omit the period after a title or heading.
+556 A question mark or an exclamation point may be used if the heading calls for it.
+557 Hyphen.
+558 When two or more words are combined to form a compound adjective, a hyphen is usually required.
+559 Common sense will aid you in the decision, but a dictionary is more reliable.
+560 The steady evolution of the language seems to favor union: two words eventually become one, usually after a period of hyphenation.
+561 The hyphen can play tricks on the unwary, as it did in Chattanooga when two newspapers merged — the News and the Free Press.
+562 Someone introduced a hyphen into the merger, and the paper became The Chattanooga News-Free Press, which sounds as though the paper were news-free, or devoid of news.
+563 Obviously, we ask too much of a hyphen when we ask it to cast its spell over words it does not adjoin.
+564 Margins.
+565 Keep righthand and lefthand margins roughly the same width.
+566 Exception: If a great deal of annotating or editing is anticipated, the lefthand margin should be roomy enough to accommodate this work.
+567 Numerals.
+568 Do not spell out dates or other serial numbers.
+569 Write them in figures or in Roman notation, as appropriate.
+570 A sentence containing an expression in parentheses is punctuated outside the last mark of parenthesis exactly as if the parenthetical expression were absent.
+571 The expression within the marks is punctuated as if it stood by itself, except that the final stop is omitted unless it is a question mark or an exclamation point.
+572 I went to her house yesterday (my third attempt to see her), but she had left town.
+573 He declares (and why should we doubt his good faith?) that he is now certain of success.
+574 Formal quotations cited as documentary evidence are introduced by a colon and enclosed in quotation marks.
+575 I can't attend," she said.
+576 Typographical usage dictates that the comma be inside the marks, though logically it often seems not to belong there.
+577 The Fish," "Poetry," and "The Monkeys" are in Marianne Moore's Selected Poems.
+578 When quotations of an entire line, or more, of either verse or prose are to be distinguished typographically from text matter, as are the quotations in this book, begin on a fresh line and indent.
+579 Quotation marks should not be used unless they appear in the original, as in dialogue.
+580 Quotations introduced by that are indirect discourse and not enclosed in quotation marks.
+581 Keats declares that beauty is truth, truth beauty.
+582 Dickinson states that a coffin is a small domain.
+583 Proverbial expressions and familiar phrases of literary origin require no quotation marks.
+584 These are the times that try men's souls.
+585 He lives far from the madding crowd.
+586 References.
+587 In scholarly work requiring exact references, abbreviate titles that occur frequently, giving the full forms in an alphabetical list at the end.
+588 As a general practice, give the references in parentheses or in footnotes, not in the body of the sentence.
+589 Omit the words act, scene, line, book, volume, page, except when referring to only one of them.
+590 Punctuate as indicated below.
+591 III.iii.
+592 Syllabication.
+593 When a word must be divided at the end of a line, consult a dictionary to learn the syllables between which division should be made.
+594 The student will do well to examine the syllable division in a number of pages of any carefully printed book.
+595 Titles.
+596 For the titles of literary works, scholarly usage prefers italics with capitalized initials.
+597 The usage of editors and publishers varies, some using italics with capitalized initials, others using Roman with capitalized initials and with or without quotation marks.
+598 Use italics (indicated in manuscript by underscoring) except in writing for a periodical that follows a different practice.
+599 Omit initial A or The from titles when you place the possessive before them.
+600 A Tale of Two Cities; Dickens's Tale of Two Cities.
+601 The Age of Innocence; Wharton's Age of Innocence.
+602 As illustrated under Feature, the proper correction is likely to be not the replacement of one word or set of words by another but the replacement of vague generality by definite statement.
+603 The shape of our language is not rigid; in questions of usage we have no lawgiver whose word is final.
+604 Students whose curiosity is aroused by the interpretations that follow, or whose doubts are raised, will wish to pursue their investigations further.
+605 Books useful in such pursuits are Merriam Webster's Collegiate Dictionary, Tenth Edition; The American Heritage Dictionary of the English Language, Third Edition; Webster's Third New International Dictionary; The New Fowler's Modern English Usage, Third Edition, edited by R.
+606 W.Burchfield; Modern American Usage: A Guide by Wilson Follett and Erik Wensberg; and The Careful Writer by Theodore M.
+607 Bernstein.
+608 Aggravate.
+609 Irritate.
+610 The first means "to add to" an already troublesome or vexing matter or condition.
+611 Idiomatic in familiar speech as a detached phrase in the sense "Agreed," or "Go ahead," or "O.K." Properly written as two words — all right.
+612 Allude.
+613 Do not confuse with elude.
+614 You allude to a book; you elude a pursuer.
+615 Note, too, that allude is not synonymous with refer.
+616 An allusion is an indirect mention, a reference is a specific one.
+617 Allusion.
+618 Easily confused with illusion.
+619 Alternative.
+620 The words are not always interchangeable as nouns or adjectives.
+621 The first means every other one in a series; the second, one of two possibilities.
+622 As the other one of a series of two, an alternate may stand for "a substitute," but an alternative, although used in a similar sense, connotes a matter of choice that is never present with alternate.
+623 As the flooded road left them no alternative, they took the alternate route.
+624 Among.
+625 Between.
+626 A device, or shortcut, that damages a sentence and often leads to confusion or ambiguity.
+627 First of all, would an honor system successfully cut down on the amount of stealing and/or cheating?
+628 First of all, would an honor system reduce the incidence of stealing or cheating or both?
+629 Anticipate.
+630 Use expect in the sense of simple expectation.
+631 I anticipated that he would look older.
+632 I expected that he would look older.
+633 My brother anticipated the upturn in the market.
+634 My brother expected the upturn in the market.
+635 In the second example, the word anticipated is ambiguous.
+636 It could mean simply that the brother believed the upturn would occur, or it could mean that he acted in advance of the expected upturn — by buying stock, perhaps.
+637 Anybody.
+638 In the sense of "any person," not to be written as two words.
+639 Any body means "any corpse," or "any human form," or "any group." The rule holds equally for everybody, nobody, and somebody.
+640 Anyone.
+641 In the sense of "anybody," written as one word.
+642 Expressions of this type should be corrected by rearranging the sentences.
+643 My opinion is as good or better than his.
+644 My opinion is as good as his, or better (if not better).
+645 As to whether.
+646 Whether is sufficient.
+647 As yet.
+648 Yet nearly always is as good, if not better.
+649 No agreement has been reached as yet.
+650 No agreement has yet been reached.
+651 The chief exception is at the beginning of a sentence, where yet means something different.
+652 Yet (or despite everything) he has not succeeded.
+653 As yet (or so far) he has not succeeded.
+654 Being.
+655 Not appropriate after regard ...
+656 But.Unnecessary after doubt and help.
+657 A loose sentence formed with but can usually be converted into a periodic sentence formed with although.
+658 Particularly awkward is one but closely following another, thus making a contrast to a contrast, or a reservation to a reservation.
+659 This is easily corrected by rearrangement.
+660 Our country had vast resources but seemed almost wholly unprepared for war.
+661 But within a year it had created an army of four million.
+662 Our country seemed almost wholly unprepared for war, but it had vast resources.
+663 Within a year it had created an army of four million.
+664 Can.Means "am (is, are) able." Not to be used as a substitute for may.
+665 Care less.
+666 The dismissive "I couldn't care less" is often used with the shortened "not" mistakenly (and mysteriously) omitted: "I could care less." The error destroys the meaning of the sentence and is careless indeed.
+667 Case.
+668 Often unnecessary.
+669 In many cases, the rooms lacked air conditioning.
+670 It has rarely been the case that any mistake has been made.
+671 Many of the rooms lacked air conditioning.
+672 Few mistakes have been made.
+673 Certainly.
+674 Used indiscriminately by some speakers, much as others use very, in an attempt to intensify any and every statement.
+675 A mannerism of this kind, bad in speech, is even worse in writing.
+676 Character.
+677 Often simply redundant, used from a mere habit of wordiness.
+678 Claim.
+679 With object-noun, means "lay claim to." May be used with a dependent clause if this sense is clearly intended: "She claimed that she was the sole heir." (But even here claimed to be would be better.) Not to be used as a substitute for declare, maintain, or charge.
+680 He claimed he knew how.
+681 He declared he knew how.
+682 Clever.
+683 Note that the word means one thing when applied to people, another when applied to horses.
+684 A clever horse is a good-natured one, not an ingenious one.
+685 Compare.
+686 Thus, life has been compared to a pilgrimage, to a drama, to a battle; Congress may be compared with the British Parliament.
+687 Paris has been compared to ancient Athens; it may be compared with modern London.
+688 Comprise.
+689 Literally, "embrace": A zoo comprises mammals, reptiles, and birds (because it "embraces," or "includes," them).
+690 But animals do not comprise ("embrace") a zoo — they constitute a zoo.
+691 Consider.
+692 I consider him competent.
+693 Contact.
+694 As a transitive verb, the word is vague and self-important.
+695 Do not contact people; get in touch with them, look them up, phone them, find them, or meet them.
+696 Cope.
+697 An intransitive verb used with with.
+698 In formal writing, one doesn't "cope," one "copes with" something or somebody.
+699 I knew they'd cope.
+700 I knew they would cope with the situation.
+701 Currently.
+702 In the sense of now with a verb in the present tense, currently is usually redundant; emphasis is better achieved through a more precise reference to time.
+703 We are currently reviewing your application.
+704 We are at this moment reviewing your application.
+705 Data.
+706 Like strata, phenomena, and media, data is a plural and is best used with a plural verb.
+707 The word, however, is slowly gaining acceptance as a singular.
+708 The data is misleading.
+709 These data are misleading.
+710 Different than.
+711 Here logic supports established usage: one thing differs from another, hence, different from.
+712 Or, other than, unlike.
+713 Disinterested.
+714 Not to be misused for composed of.
+715 The line is sometimes difficult to draw; doubtless plays are divided into acts, but poems are composed of stanzas.
+716 An apple, halved, is divided into sections, but an apple is composed of seeds, flesh, and skin.
+717 Due to.
+718 Loosely used for through, because of, or owing to, in adverbial phrases.
+719 He lost the first game due to carelessness.
+720 He lost the first game because of carelessness.
+721 Pitchman's jargon.
+722 Avoid, except in dialogue.
+723 It should be a lesson to each and every one of us.
+724 It should be a lesson to every one of us (to us all).
+725 Effect.
+726 As a noun, means "result"; as a verb, means "to bring about," "to accomplish" (not to be confused with affect, which means "to influence").
+727 As a noun, often loosely used in perfunctory writing about fashions, music, painting, and other arts: "a Southwestern effect"; "effects in pale green"; "very delicate effects"; "subtle effects"; "a charming effect was produced." The writer who has a definite meaning to express will not take refuge in such vagueness.
+728 Enormity.
+729 Use only in the sense of "monstrous wickedness." Misleading, if not wrong, when used to express bigness.
+730 Enthuse.
+731 An annoying verb growing out of the noun enthusiasm.
+732 Not recommended.
+733 She was enthused about her new car.
+734 She was enthusiastic about her new car.
+735 She enthused about her new car.
+736 She talked enthusiastically (expressed enthusiasm) about her new car.
+737 Etc.Literally, "and other things"; sometimes loosely used to mean "and other persons." The phrase is equivalent to and the rest, and so forth, and hence is not to be used if one of these would be insufficient — that is, if the reader would be left in doubt as to any important particulars.
+738 Least open to objection when it represents the last terms of a list already given almost in full, or immaterial words at the end of a quotation.
+739 At the end of a list introduced by such as, for example, or any similar expression, etc.
+740 In formal writing, etc.
+741 An item important enough to call for etc.
+742 Fact.
+743 Use this word only of matters capable of direct verification, not of matters of judgment.
+744 That a particular event happened on a given date and that lead melts at a certain temperature are facts.
+745 Facility.
+746 Why must jails, hospitals, and schools suddenly become "facilities"?
+747 Parents complained bitterly about the fire hazard in the wooden facility.
+748 He has been appointed warden of the new facility.
+749 Parents complained bitterly about the fire hazard in the wooden schoolhouse.
+750 He has been appointed warden of the new prison.
+751 Factor.
+752 A hackneyed word; the expressions of which it is a part can usually be replaced by something more direct and idiomatic.
+753 Her superior training was the great factor in her winning the match.
+754 Air power is becoming an increasingly important factor in deciding battles.
+755 She won the match by being better trained.
+756 Air power is playing a larger and larger part in deciding battles.
+757 Farther.
+758 Further.
+759 The two words are commonly interchanged, but there is a distinction worth observing: farther serves best as a distance word, further as a time or quantity word.
+760 You chase a ball farther than the other fellow; you pursue a subject further.
+761 Feature.
+762 Another hackneyed word; like factor, it usually adds nothing to the sentence in which it occurs.
+763 A feature of the entertainment especially worthy of mention was the singing of Allison Jones.
+764 Finalize.
+765 A pompous, ambiguous verb.
+766 See Chapter V, Reminder 21.) Fix.
+767 Colloquial in America for arrange, prepare, mend.
+768 The usage is well established.
+769 But bear in mind that this verb is from figere: "to make firm," "to place definitely." These are the preferred meanings of the word.
+770 Flammable.
+771 An oddity, chiefly useful in saving lives.
+772 The common word meaning "combustible" is inflammable.
+773 But some people are thrown off by the in- and think inflammable means "not combustible." For this reason, trucks carrying gasoline or explosives are now marked FLAMMABLE.
+774 Unless you are operating such a truck and hence are concerned with the safety of children and illiterates, use inflammable.
+775 Folk.
+776 A collective noun, equivalent to people.
+777 Use the singular form only.
+778 Folks, in the sense of "parents," "family," "those present," is colloquial and too folksy for formal writing.
+779 Her folks arrived by the afternoon train.
+780 Her father and mother arrived by the afternoon train.
+781 Fortuitous.
+782 Limited to what happens by chance.
+783 Not to be used for fortunate or lucky.
+784 Get.The colloquial have got for have should not be used in writing.
+785 The preferable form of the participle is got, not gotten.
+786 He has not got any sense.
+787 He has no sense.
+788 They returned without having gotten any.
+789 They returned without having got any.
+790 Gratuitous.
+791 A common type of redundant expression; see Rule 17.
+792 He is a man who is very ambitious.
+793 He is very ambitious.
+794 Vermont is a state that attracts visitors because of its winter sports.
+795 Vermont attracts visitors because of its winter sports.
+796 Hopefully.
+797 This once-useful adverb meaning "with hope" has been distorted and is now widely used to mean "I hope" or "it is to be hoped." Such use is not merely wrong, it is silly.
+798 To say, "Hopefully I'll leave on the noon plane" is to talk nonsense.
+799 Do you mean you'll leave on the noon plane in a hopeful frame of mind?
+800 Or do you mean you hope you'll leave on the noon plane?
+801 Whichever you mean, you haven't said it clearly.
+802 Although the word in its new, free-floating capacity may be pleasurable and even useful to many, it offends the ear of many others, who do not like to see words dulled or eroded, particularly when the erosion leads to ambiguity, softness, or nonsense.
+803 However.
+804 Avoid starting a sentence with however when the meaning is "nevertheless." The word usually serves better when not in first position.
+805 The roads were almost impassable.
+806 However, we at last succeeded in reaching camp.
+807 The roads were almost impassable.
+808 At last, however, we succeeded in reaching camp.
+809 When however comes first, it means "in whatever way" or "to whatever extent." However you advise him, he will probably do as he thinks best.
+810 However discouraging the prospect, they never lost heart.
+811 Illusion.
+812 See allusion.
+813 Imply.
+814 Infer.
+815 Not interchangeable.
+816 Something implied is something suggested or indicated, though not expressed.
+817 Something inferred is something deduced from evidence at hand.
+818 Farming implies early rising.
+819 Since she was a farmer, we inferred that she got up early.
+820 Importantly.
+821 Avoid by rephrasing.
+822 More importantly, he paid for the damages.
+823 What's more, he paid for the damages.
+824 With the breeze freshening, he altered course to pass inside the island.
+825 More importantly, as things turned out, he tucked in a reef.
+826 With the breeze freshening, he altered course to pass inside the island.
+827 More important, as things turned out, he tucked in a reef.
+828 In regard to.
+829 Often wrongly written in regards to.
+830 But as regards is correct, and means the same thing.
+831 In the last analysis.
+832 A bankrupt expression.
+833 Inside of.
+834 Inside.
+835 The of following inside is correct in the adverbial meaning "in less than." In other meanings, of is unnecessary.
+836 Inside of five minutes I'll be inside the bank.
+837 Insightful.
+838 The word is a suspicious overstatement for "perceptive." If it is to be used at all, it should be used for instances of remarkably penetrating vision.
+839 Usually, it crops up merely to inflate the commonplace.
+840 That was an insightful remark you made.
+841 That was a perceptive remark you made.
+842 In terms of.
+843 A piece of padding usually best omitted.
+844 The job was unattractive in terms of salary.
+845 The salary made the job unattractive.
+846 Interesting.
+847 An unconvincing word; avoid it as a means of introduction.
+848 Instead of announcing that what you are about to tell is interesting, make it so.
+849 B.Nothing becomes funny by being labeled so.
+850 Irregardless.
+851 Should be regardless.
+852 The error results from failure to see the negative in - less and from a desire to get it in as a prefix, suggested by such words as irregular, irresponsible, and, perhaps especially, irrespective.
+853 Do not coin verbs by adding this tempting suffix.
+854 Many good and useful verbs do end in -ize: summarize, fraternize, harmonize, fertilize.
+855 But there is a growing list of abominations: containerize, prioritize, finalize, to name three.
+856 Be suspicious of -ize; let your ear and your eye guide you.
+857 Never tack -ize onto a noun to create a verb.
+858 Usually you will discover that a useful verb already exists.
+859 Why say "utilize" when there is the simple, unpretentious word use?
+860 Kind of.
+861 Except in familiar style, not to be used as a substitute for rather or something like.
+862 Restrict it to its literal sense: "Amber is a kind of fossil resin"; "I dislike that kind of publicity." The same holds true for sort of.
+863 Lay.A transitive verb.
+864 Except in slang ("Let it lay"), do not misuse it for the intransitive verb lie.
+865 The hen, or the play, lays an egg; the llama lies down.
+866 The playwright went home and lay down.
+867 Leave.
+868 Not to be misused for let.
+869 Leave it stand the way it is.
+870 Let it stand the way it is.
+871 Leave go of that rope!
+872 Let go of that rope!
+873 Less.
+874 Should not be misused for fewer.
+875 They had less workers than in the previous campaign.
+876 They had fewer workers than in the previous campaign.
+877 Less refers to quantity, fewer to number.
+878 Not to be used for the conjunction as.
+879 Like governs nouns and pronouns; before phrases and clauses the equivalent word is as.
+880 We spent the evening like in the old days.
+881 We spent the evening as in the old days.
+882 Chloë smells good, like a baby should.
+883 Chloë smells good, as a baby should.
+884 The use of like for as has its defenders; they argue that any usage that achieves currency becomes valid automatically.
+885 This, they say, is the way the language is formed.
+886 It is and it isn't.
+887 An expression sometimes merely enjoys a vogue, much as an article of apparel does.
+888 If every word or device that achieved currency were immediately authenticated, simply on the ground of popularity, the language would be as chaotic as a ball game with no foul lines.
+889 For the student, perhaps the most useful thing to know about like is that most carefully edited publications regard its use before phrases and clauses as simple error.
+890 Line.
+891 Along these lines.
+892 Line in the sense of "course of procedure, conduct, thought" is allowable but has been so overworked, particularly in the phrase along these lines, that a writer who aims at freshness or originality had better discard it entirely.
+893 Mr.B.Mr.B.She is studying along the line of French literature.
+894 She is studying French literature.
+895 Literal.
+896 Literally.
+897 Often incorrectly used in support of exaggeration or violent metaphor.
+898 Loan.
+899 A noun.
+900 As a verb, prefer lend.
+901 Lend me your ears.
+902 Meaningful.
+903 A bankrupt adjective.
+904 Choose another, or rephrase.
+905 His was a meaningful contribution.
+906 His contribution counted heavily.
+907 Memento.
+908 Often incorrectly written momento.
+909 We are improving the curriculum in many ways.
+910 Most.
+911 Not to be used for almost in formal composition.
+912 Nature.
+913 Often simply redundant, used like character.
+914 Nauseous.
+915 Nauseated.
+916 The first means "sickening to contemplate"; the second means "sick at the stomach." Do not, therefore, say, "I feel nauseous," unless you are sure you have that effect on others.
+917 Nice.
+918 A shaggy, all-purpose word, to be used sparingly in formal composition.
+919 I had a nice time." "It was nice weather." "She was so nice to her mother." The meanings are indistinct.
+920 Nice is most useful in the sense of "precise" or "delicate": "a nice distinction." Nor.
+921 Often used wrongly for or after negative expressions.
+922 He cannot eat nor sleep.
+923 He cannot eat or sleep.
+924 He can neither eat nor sleep.
+925 He cannot eat nor can he sleep.
+926 Noun used as verb.
+927 Many nouns have lately been pressed into service as verbs.
+928 Not all are bad, but all are suspect.
+929 Be prepared for kisses when you gift your girlfriend with this merry scent.
+930 The candidate hosted a dinner for fifty of her workers.
+931 Be prepared for kisses when you give your girlfriend this merry scent.
+932 The candidate gave a dinner for fifty of her workers.
+933 The meeting was chaired by Mr.
+934 Oglethorp.
+935 Mr.Oglethorp was chair of the meeting.
+936 She headquarters in Newark.
+937 She has headquarters in Newark.
+938 The theater troupe debuted last fall.
+939 The theatre troupe made its debut last fall.
+940 Offputting.
+941 Ongoing.
+942 Newfound adjectives, to be avoided because they are inexact and clumsy.
+943 Ongoing is a mix of "continuing" and "active" and is usually superfluous.
+944 He devoted all his spare time to the ongoing program for aid to the elderly.
+945 He devoted all his spare time to the program for aid to the elderly.
+946 Offputting might mean "objectionable," "disconcerting," "distasteful." Select instead a word whose meaning is clear.
+947 As a simple test, transform the participles to verbs.
+948 It is possible to upset something.
+949 But to offput?
+950 To ongo?
+951 One.In the sense of "a person," not to be followed by his or her.
+952 One must watch his step.
+953 One must watch one's step.
+954 Avoid this feeble formula.
+955 One of the most exciting developments of modern science is ..."; "Switzerland is one of the most beautiful countries of Europe." There is nothing wrong with the grammar; the formula is simply threadbare.
+956 A clumsy, pretentious device, much in vogue.
+957 Find a better way of indicating orientation or alignment or direction.
+958 It was a manufacturing-oriented company.
+959 It was a company chiefly concerned with manufacturing.
+960 Many of the skits are situation-oriented.
+961 Many of the skits rely on situation.
+962 Partially.
+963 Not always interchangeable with partly.
+964 Best used in the sense of "to a certain degree," when speaking of a condition or state: "I'm partially resigned to it." Partly carries the idea of a part as distinct from the whole — usually a physical object.
+965 The log was partially submerged.
+966 The log was partly submerged.
+967 She was partially in and partially out.
+968 She was partly in and partly out.
+969 She was part in, part out.
+970 Participle for verbal noun.
+971 There was little prospect of the Senate accepting even this compromise.
+972 There was little prospect of the Senate's accepting even this compromise.
+973 In the lefthand column, accepting is a present participle; in the righthand column, it is a verbal noun (gerund).
+974 The construction shown in the lefthand column is occasionally found, and has its defenders.
+975 Yet it is easy to see that the second sentence has to do not with a prospect of the Senate but with a prospect of accepting.
+976 Any sentence in which the use of the possessive is awkward or impossible should of course be recast.
+977 People.
+978 A word with many meanings.
+979 The American Heritage Dictionary, Third Edition, gives nine.) The people is a political term, not to be confused with the public.
+980 From the people comes political support or opposition; from the public comes artistic appreciation or commercial patronage.
+981 The word people is best not used with words of number, in place of persons.
+982 If of "six people" five went away, how many people would be left?
+983 Answer: one people.
+984 Personalize.
+985 A pretentious word, often carrying bad advice.
+986 Do not personalize your prose; simply make it good and keep it clean.
+987 See Chapter V, Reminder 1.
+988 Personalize your stationery.
+989 Design a letterhead.
+990 Personally.
+991 Often unnecessary.
+992 Personally, I thought it was a good book.
+993 I thought it a good book.
+994 Possess.
+995 Often used because to the writer it sounds more impressive than have or own.
+996 Such usage is not incorrect but is to be guarded against.
+997 She possessed great courage.
+998 She had great courage (was very brave).
+999 Has two meanings: "in a short while" and "currently." Because of this ambiguity it is best restricted to the first meaning: "She'll be here presently" ("soon," or "in a short time").
+1000 Prestigious.
+1001 Often an adjective of last resort.
+1002 It's in the dictionary, but that doesn't mean you have to use it.
+1003 Refer.
+1004 See allude.
+1005 Regretful.
+1006 Not to be used intransitively to suggest rapport.
+1007 I relate well to Janet.
+1008 Janet and I see things the same way.
+1009 Janet and I have a lot in common.
+1010 Respective.
+1011 Respectively.
+1012 These words may usually be omitted with advantage.
+1013 Works of fiction are listed under the names of their respective authors.
+1014 The mile run and the two-mile run were won by Jones and Cummings respectively.
+1015 Works of fiction are listed under the names of their authors.
+1016 The mile run was won by Jones, the two mile run by Cummings.
+1017 Secondly, thirdly, etc.
+1018 Unless you are prepared to begin with firstly and defend it (which will be difficult), do not prettify numbers with -ly.
+1019 Modern usage prefers second, third, and so on.
+1020 Shall.
+1021 Will.
+1022 In formal writing, the future tense requires shall for the first person, will for the second and third.
+1023 The formula to express the speaker's belief regarding a future action or state is I shall; I will expresses determination or consent.
+1024 A swimmer in distress cries, "I shall drown; no one will save me!" A suicide puts it the other way: "I will drown; no one shall save me!" In relaxed speech, however, the words shall and will are seldom used precisely; our ear guides us or fails to guide us, as the case may be, and we are quite likely to drown when we want to survive and survive when we want to drown.
+1025 So.Avoid, in writing, the use of so as an intensifier: "so good"; "so warm"; "so delightful." Sort of.
+1026 See kind of.
+1027 Split infinitive.
+1028 There is precedent from the fourteenth century down for interposing an adverb between to and the infinitive it governs, but the construction should be avoided unless the writer wishes to place unusual stress on the adverb.
+1029 For another side to the split infinitive, see Chapter V, Reminder 14.
+1030 State.
+1031 Not to be used as a mere substitute for say, remark.
+1032 Nine times out of ten a needless and awkward expression, meaning no more than the simple word students.
+1033 Than.
+1034 Any sentence with than (to express comparison) should be examined to make sure no essential words are missing.
+1035 I'm probably closer to my mother than my father.
+1036 I'm probably closer to my mother than to my father.
+1037 I'm probably closer to my mother than my father is.
+1038 It looked more like a cormorant than like a heron.
+1039 Thanking you in advance.
+1040 This sounds as if the writer meant, "It will not be worth my while to write to you again." In making your request, write "Will you please," or "I shall be obliged." Then, later, if you feel moved to do so, or if the circumstances call for it, write a letter of acknowledgment.
+1041 That.
+1042 Which.
+1043 That is the defining, or restrictive, pronoun, which the nondefining, or nonrestrictive.
+1044 Occasionally which seems preferable to that, as in the sentence from the Bible.
+1045 But it would be a convenience to all if these two pronouns were used with precision.
+1046 Careful writers, watchful for small conveniences, go which-hunting, remove the defining whiches, and by so doing improve their work.
+1047 The foreseeable future.
+1048 A cliche, and a fuzzy one.
+1049 How much of the future is foreseeable?
+1050 Ten minutes?
+1051 Ten years?
+1052 Any of it?
+1053 By whom is it foreseeable?
+1054 Seers?
+1055 Experts?
+1056 Everybody?
+1057 The truth.
+1058 The fact is....
+1059 A bad beginning for a sentence.
+1060 If you feel you are possessed of the truth, or of the fact, simply state it.
+1061 Do not give it advance billing.
+1062 They.
+1063 He or She.
+1064 Do not use they when the antecedent is a distributive expression such as each, each one, everybody, every one, many a man.
+1065 Use the singular pronoun.
+1066 Every one of us knows they are fallible.
+1067 Every one of us knows he is fallible.
+1068 Everyone in the community, whether they are a member of the Association or not, is invited to attend.
+1069 Everyone in the community, whether he is a member of the Association or not, is invited to attend.
+1070 A similar fault is the use of the plural pronoun with the antecedent anybody, somebody, someone, the intention being either to avoid the awkward he or she or to avoid committing oneself to one or the other.
+1071 Currently, however, many writers find the use of the generic he or his to rename indefinite antecedents limiting or offensive.
+1072 Substituting he or she in its place is the logical thing to do if it works.
+1073 But it often doesn't work, if only because repetition makes it sound boring or silly.
+1074 The writer must address his readers' concerns.
+1075 Eliminate the pronoun altogether.
+1076 The writer must address his readers' concerns.
+1077 Writers must address their readers' concerns.
+1078 The writer must address readers' concerns.
+1079 Substitute the second person for the third person.
+1080 The writer must address his readers' concerns.
+1081 As a writer, you must address your readers' concerns.
+1082 No one need fear to use he if common sense supports it.
+1083 If you think she is a handy substitute for he, try it and see what happens.
+1084 Alternatively, put all controversial nouns in the plural and avoid the choice of sex altogether, although you may find your prose sounding general and diffuse as a result.
+1085 This.
+1086 The pronoun this, referring to the complete sense of a preceding sentence or clause, can't always carry the load and so may produce an imprecise statement.
+1087 Visiting dignitaries watched yesterday as ground was broken for the new high-energy physics laboratory with a blowout safety wall.
+1088 This is the first visible evidence of the university's plans for modernization and expansion.
+1089 Visiting dignitaries watched yesterday as ground was broken for the new high-energy physics laboratory with a blowout safety wall.
+1090 The ceremony afforded the first visible evidence of the university's plans for modernization and expansion.
+1091 In the lefthand example above, this does not immediately make clear what the first visible evidence is.
+1092 Thrust.
+1093 This showy noun, suggestive of power, hinting of sex, is the darling of executives, politicos, and speech-writers.
+1094 Use it sparingly.
+1095 Save it for specific application.
+1096 Our reorganization plan has a tremendous thrust.
+1097 The thrust of his letter was that he was working more hours than he'd bargained for.
+1098 The piston has a five-inch thrust.
+1099 The point he made in his letter was that he was working more hours than he'd bargained for.
+1100 Tortuous.
+1101 Torturous.
+1102 A winding road is tortuous, a painful ordeal is torturous.
+1103 Both words carry the idea of "twist," the twist having been a form of torture.
+1104 Transpire.
+1105 Try.Takes the infinitive: "try to mend it," not "try and mend it." Students of the language will argue that try and has won through and become idiom.
+1106 Indeed it has, and it is relaxed and acceptable.
+1107 But try to is precise, and when you are writing formal prose, try and write try to.
+1108 Type.
+1109 Not a synonym for kind of.
+1110 The examples below are common vulgarisms.
+1111 I dislike that type publicity.
+1112 I dislike that kind of publicity.
+1113 Unique.
+1114 Means "without like or equal." Hence, there can be no degrees of uniqueness.
+1115 It was the most unique coffee maker on the market.
+1116 It was a unique coffee maker.
+1117 The balancing act was very unique.
+1118 The balancing act was unique.
+1119 Of all the spiders, the one that lives in a bubble under water is the most unique.
+1120 Utilize.
+1121 Prefer use.
+1122 Among spiders, the one that lives in a bubble under water is unique.
+1123 I utilized the facilities.
+1124 I used the toilet.
+1125 He utilized the dishwasher.
+1126 He used the dishwasher.
+1127 Verbal.
+1128 Sometimes means "word for word" and in this sense may refer to something expressed in writing.
+1129 Oral (from Latin os, "mouth") limits the meaning to what is transmitted by speech.
+1130 Oral agreement is more precise than verbal agreement.
+1131 Very.
+1132 Use this word sparingly.
+1133 Where emphasis is necessary, use words strong in themselves.
+1134 While.
+1135 Avoid the indiscriminate use of this word for and, but, and although.
+1136 Many writers use it frequently as a substitute for and or but, either from a mere desire to vary the connective or from doubt about which of the two connectives is more appropriate.
+1137 In this use it is best replaced by a semicolon.
+1138 The office and salesrooms are on the ground floor, while the rest of the building is used for manufacturing.
+1139 The office and salesrooms are on the ground floor; the rest of the building is used for manufacturing.
+1140 Its use as a virtual equivalent of although is allowable in sentences where this leads to no ambiguity or absurdity.
+1141 While I admire his energy, I wish it were employed in a better cause.
+1142 Not to be used indiscriminately as a pseudosuffix: taxwise, pricewise, marriagewise, prosewise, saltwater taffy-wise.
+1143 Chiefly useful when it means "in the manner of: clockwise.
+1144 There is not a noun in the language to which -wise cannot be added if the spirit moves one to add it.
+1145 The sober writer will abstain from the use of this wild additive.
+1146 Worth while.
+1147 Overworked as a term of vague approval and (with not) of disapproval.
+1148 The adjective worthwhile (one word) is acceptable but emaciated.
+1149 Use a stronger word.
+1150 Would.
+1151 Commonly used to express habitual or repeated action.
+1152 Once a year he would visit the old mansion.
+1153 Once a year he visited the old mansion.
+1154 In narrative writing, always indicate the transition from the general to the particular — that is, from sentences that merely state a general habit to those that express the action of a specific day or period.
+1155 Failure to indicate the change will cause confusion.
+1156 Townsend would get up early and prepare his own breakfast.
+1157 If the day was cold, he filled the stove and had a warm fire burning before he left the house.
+1158 On his way out to the garage, he noticed that there were footprints in the new-fallen snow on the porch.
+1159 The reader is lost, having received no signal that Townsend has changed from a mere man of habit to a man who has seen a particular thing on a particular day.
+1160 Townsend would get up early and prepare his own breakfast.
+1161 If the day was cold, he filled the stove and had a warm fire burning before he left the house.
+1162 One morning in January, on his way out to the garage, he noticed footprints in the new-fallen snow on the porch.
+1163 In this final chapter, we approach style in its broader meaning: style in the sense of what is distinguished and distinguishing.
+1164 Here we leave solid ground.
+1165 Who can confidently say what ignites a certain combination of words, causing them to explode in the mind?
+1166 Who knows why certain notes in music are capable of stirring the listener deeply, though the same notes slightly rearranged are impotent?
+1167 These are high mysteries, and this chapter is a mystery story, thinly disguised.
+1168 There is no satisfactory explanation of style, no infallible guide to good writing, no assurance that a person who thinks clearly will be able to write clearly, no key that unlocks the door, no inflexible rule by which writers may shape their course.
+1169 Writers will often find themselves steering by stars that are disturbingly in motion.
+1170 The preceding chapters contain instructions drawn from established English usage; this one contains advice drawn from a writer's experience of writing.
+1171 Since the book is a rule book, these cautionary remarks, these subtly dangerous hints, are presented in the form of rules, but they are, in essence, mere gentle reminders: they state what most of us know and at times forget.
+1172 Style is an increment in writing.
+1173 When we speak of Fitzgerald's style, we don't mean his command of the relative pronoun, we mean the sound his words make on paper.
+1174 All writers, by the way they use the language, reveal something of their spirits, their habits, their capacities, and their biases.
+1175 This is inevitable as well as enjoyable.
+1176 All writing is communication; creative writing is communication through revelation — it is the Self escaping into the open.
+1177 No writer long remains incognito.
+1178 If you doubt that style is something of a mystery, try rewriting a familiar sentence and see what happens.
+1179 Any much-quoted sentence will do.
+1180 Suppose we take "These are the times that try men's souls." Here we have eight short, easy words, forming a simple declarative sentence.
+1181 Yet in that arrangement, they have shown great durability; the sentence is into its third century.
+1182 How trying it is to live in these times!
+1183 These are trying times for men's souls.
+1184 Soulwise, these are trying times.
+1185 It seems unlikely that Thomas Paine could have made his sentiment stick if he had couched it in any of these forms.
+1186 But why not?
+1187 No fault of grammar can be detected in them, and in every case the meaning is clear.
+1188 Each version is correct, and each, for some reason that we can't readily put our finger on, is marked for oblivion.
+1189 We could, of course, talk about "rhythm" and "cadence," but the talk would be vague and unconvincing.
+1190 We could declare soulwise to be a silly word, inappropriate to the occasion; but even that won't do — it does not answer the main question.
+1191 Are we even sure soulwise is silly?
+1192 If otherwise is a serviceable word, what's the matter with soulwise?
+1193 Here is another sentence, this one by a later Tom.
+1194 It is not a famous sentence, although its author (Thomas Wolfe) is well known.
+1195 The author's meaning is still intact, but not his overpowering emotion.
+1196 What was poetical and sensuous has become prosy and wooden; instead of the secret sounds of beauty, we are left with the simple crunch of mastication.
+1197 Whether Mr.
+1198 Here, following, are two brief passages from the works of two American novelists.
+1199 The subject in each case is languor.
+1200 In both, the words used are ordinary, and there is nothing eccentric about the construction.
+1201 Manuel drank his brandy.
+1202 He felt sleepy himself.
+1203 It was too hot to go out into the town.
+1204 Besides there was nothing to do.
+1205 He wanted to see Zurito.
+1206 He would go to sleep while he waited.
+1207 Anyone acquainted with Faulkner and Hemingway will have recognized them in these passages and perceived which was which.
+1208 How different are their languors!
+1209 Or take two American poets, stopping at evening.
+1210 One stops by woods, the other by laughing flesh.
+1211 Copyright 1923, © 1969 by Henry Holt and Company, LLC.
+1212 Because of the characteristic styles, there is little question about identity here, and if the situations were reversed, with Whitman stopping by woods and Frost by laughing flesh (not one of his regularly scheduled stops), the reader would know who was who.
+1213 Young writers often suppose that style is a garnish for the meat of prose, a sauce by which a dull dish is made palatable.
+1214 Style has no such separate entity; it is nondetachable, unfilterable.
+1215 The beginner should approach style warily, realizing that it is an expression of self, and should turn resolutely away from all devices that are popularly believed to indicate style — all mannerisms, tricks, adornments.
+1216 The approach to style is by way of plainness, simplicity, orderliness, sincerity.
+1217 Writing is, for most, laborious and slow.
+1218 The mind travels faster than the pen; consequently, writing becomes a question of learning to make occasional wing shots, bringing down the bird of thought as it flashes by.
+1219 A writer is a gunner, sometimes waiting in the blind for something to come in, sometimes roaming the countryside hoping to scare something up.
+1220 Like other gunners, the writer must cultivate patience, working many covers to bring down one partridge.
+1221 Here, following, are some suggestions and cautionary hints that may help the beginner find the way to a satisfactory style.
+1222 Place yourself in the background.
+1223 Write in a way that draws the reader's attention to the sense and substance of the writing, rather than to the mood and temper of the author.
+1224 If the writing is solid and good, the mood and temper of the writer will eventually be revealed and not at the expense of the work.
+1225 Therefore, the first piece of advice is this: to achieve style, begin by affecting none — that is, place yourself in the background.
+1226 A careful and honest writer does not need to worry about style.
+1227 As you become proficient in the use of language, your style will emerge, because you yourself will emerge, and when this happens you will find it increasingly easy to break through the barriers that separate you from other minds, other hearts — which is, of course, the purpose of writing, as well as its principal reward.
+1228 Fortunately, the act of composition, or creation, disciplines the mind; writing is one way to go about thinking, and the practice and habit of writing not only drain the mind but supply it, too.
+1229 Write in a way that comes naturally.
+1230 Write in a way that comes easily and naturally to you, using words and phrases that come readily to hand.
+1231 But do not assume that because you have acted naturally your product is without flaw.
+1232 The use of language begins with imitation.
+1233 The infant imitates the sounds made by its parents; the child imitates first the spoken language, then the stuff of books.
+1234 The imitative life continues long after the writer is secure in the language, for it is almost impossible to avoid imitating what one admires.
+1235 Never imitate consciously, but do not worry about being an imitator; take pains instead to admire what is good.
+1236 Then when you write in a way that comes naturally, you will echo the halloos that bear repeating.
+1237 Work from a suitable design.
+1238 Before beginning to compose something, gauge the nature and extent of the enterprise and work from a suitable design.
+1239 See Chapter II, Rule 12.) Design informs even the simplest structure, whether of brick and steel or of prose.
+1240 You raise a pup tent from one sort of vision, a cathedral from another.
+1241 This does not mean that you must sit with a blueprint always in front of you, merely that you had best anticipate what you are getting into.
+1242 To compose a laundry list, you can work directly from the pile of soiled garments, ticking them off one by one.
+1243 But to write a biography, you will need at least a rough scheme; you cannot plunge in blindly and start ticking off fact after fact about your subject, lest you miss the forest for the trees and there be no end to your labors.
+1244 Sometimes, of course, impulse and emotion are more compelling than design.
+1245 If you are deeply troubled and are composing a letter appealing for mercy or for love, you had best not attempt to organize your emotions; the prose will have a better chance if the emotions are left in disarray — which you'll probably have to do anyway, since feelings do not usually lend themselves to rearrangement.
+1246 But even the kind of writing that is essentially adventurous and impetuous will on examination be found to have a secret plan: Columbus didn't just sail, he sailed west, and the New World took shape from this simple and, we now think, sensible design.
+1247 Write with nouns and verbs.
+1248 Write with nouns and verbs, not with adjectives and adverbs.
+1249 The adjective hasn't been built that can pull a weak or inaccurate noun out of a tight place.
+1250 This is not to disparage adjectives and adverbs; they are indispensable parts of speech.
+1251 The nouns mountain and glen are accurate enough, but had the mountain not become airy, the glen rushy, William Ailing-ham might never have got off the ground with his poem.
+1252 In general, however, it is nouns and verbs, not their assistants, that give good writing its toughness and color.
+1253 Revise and rewrite.
+1254 Revising is part of writing.
+1255 Few writers are so expert that they can produce what they are after on the first try.
+1256 Quite often you will discover, on examining the completed work, that there are serious flaws in the arrangement of the material, calling for transpositions.
+1257 When this is the case, a word processor can save you time and labor as you rearrange the manuscript.
+1258 You can select material on your screen and move it to a more appropriate spot, or, if you cannot find the right spot, you can move the material to the end of the manuscript until you decide whether to delete it.
+1259 Some writers find that working with a printed copy of the manuscript helps them to visualize the process of change; others prefer to revise entirely on screen.
+1260 Above all, do not be afraid to experiment with what you have written.
+1261 Save both the original and the revised versions; you can always use the computer to restore the manuscript to its original condition, should that course seem best.
+1262 Remember, it is no sign of weakness or defeat that your manuscript ends up in need of major surgery.
+1263 This is a common occurrence in all writing, and among the best writers.
+1264 Do not overwrite.
+1265 Rich, ornate prose is hard to digest, generally unwholesome, and sometimes nauseating.
+1266 If the sickly-sweet word, the overblown phrase are your natural form of expression, as is sometimes the case, you will have to compensate for it by a show of vigor, and by writing something as meritorious as the Song of Songs, which is Solomon's.
+1267 When writing with a computer, you must guard against wordiness.
+1268 The click and flow of a word processor can be seductive, and you may find yourself adding a few unnecessary words or even a whole passage just to experience the pleasure of running your fingers over the keyboard and watching your words appear on the screen.
+1269 It is always a good idea to reread your writing later and ruthlessly delete the excess.
+1270 Do not overstate.
+1271 When you overstate, readers will be instantly on guard, and everything that has preceded your overstatement as well as everything that follows it will be suspect in their minds because they have lost confidence in your judgment or your poise.
+1272 Overstatement is one of the common faults.
+1273 A single overstatement, wherever or however it occurs, diminishes the whole, and a single carefree superlative has the power to destroy, for readers, the object of your enthusiasm.
+1274 Avoid the use of qualifiers.
+1275 Rather, very, little, pretty — these are the leeches that infest the pond of prose, sucking the blood of words.
+1276 The constant use of the adjective little (except to indicate size) is particularly debilitating; we should all try to do a little better, we should all be very watchful of this rule, for it is a rather important one, and we are pretty sure to violate it now and then.
+1277 Do not affect a breezy manner.
+1278 The volume of writing is enormous, these days, and much of it has a sort of windiness about it, almost as though the author were in a state of euphoria.
+1279 Spontaneous me," sang Whitman, and, in his innocence, let loose the hordes of uninspired scribblers who would one day confuse spontaneity with genius.
+1280 The breezy style is often the work of an egocentric, the person who imagines that everything that comes to mind is of general interest and that uninhibited prose creates high spirits and carries the day.
+1281 This is an extreme example, but the same wind blows, at lesser velocities, across vast expanses of journalistic prose.
+1282 The author in this case has managed in two sentences to commit most of the unpardonable sins: he obviously has nothing to say, he is showing off and directing the attention of the reader to himself, he is using slang with neither provocation nor ingenuity, he adopts a patronizing air by throwing in the word primo, he is humorless (though full of fun), dull, and empty.
+1283 He has not done his work.
+1284 Clyde resigned last spring as executive sales manager of the Indiana Flotex Company and is now a gondolier in Venice.
+1285 This, although conventional, is compact, informative, unpretentious.
+1286 The writer has dug up an item of news and presented it in a straightforward manner.
+1287 Use orthodox spelling.
+1288 In ordinary composition, use orthodox spelling.
+1289 Do not write nite for night, thru for through, pleez for please, unless you plan to introduce a complete system of simplified spelling and are prepared to take the consequences.
+1290 In the original edition of The Elements of Style, there was a chapter on spelling.
+1291 At the present day there is practically unanimous agreement as to the spelling of most words....
+1292 At any given moment, however, a relatively small number of words may be spelled in more than one way.
+1293 Gradually, as a rule, one of these forms comes to be generally preferred, and the less customary form comes to look obsolete and is discarded.
+1294 From time to time new forms, mostly simplifications, are introduced by innovators, and either win their place or die of neglect.
+1295 The practical objection to unaccepted and oversimplified spellings is the disfavor with which they are received by the reader.
+1296 They distract his attention and exhaust his patience.
+1297 He reads the form though automatically, without thought of its needless complexity; he reads the abbreviation tho and mentally supplies the missing letters, at the cost of a fraction of his attention.
+1298 The writer has defeated his own purpose.
+1299 The language manages somehow to keep pace with events.
+1300 A word that has taken hold in our century is thru-way; it was born of necessity and is apparently here to stay.
+1301 In combination with way, thru is more serviceable than through; it is a high-speed word for readers who are going sixty-five.
+1302 Throughway would be too long to fit on a road sign, too slow to serve the speeding eye.
+1303 It is conceivable that because of our thruways, through will eventually become thru — after many more thousands of miles of travel.
+1304 Do not explain too much.
+1305 It is seldom advisable to tell all.
+1306 Be sparing, for instance, in the use of adverbs after "he said," "she replied," and the like: "he said consolingly"; "she replied grumblingly." Let the conversation itself disclose the speaker's manner or condition.
+1307 Dialogue heavily weighted with adverbs after the attributive verb is cluttery and annoying.
+1308 Inexperienced writers not only overwork their adverbs but load their attributives with explanatory verbs: "he consoled," "she congratulated." They do this, apparently, in the belief that the word said is always in need of support, or because they have been told to do it by experts in the art of bad writing.
+1309 Do not construct awkward adverbs.
+1310 Adverbs are easy to build.
+1311 Take an adjective or a participle, add -ly, and behold!
+1312 But you'd probably be better off without it.
+1313 Do not write tangledly.
+1314 The word itself is a tangle.
+1315 Do not even write tiredly.
+1316 Nobody says tangledly and not many people say tiredly.
+1317 Words that are not used orally are seldom the ones to put on paper.
+1318 He climbed tiredly to bed.
+1319 He climbed wearily to bed.
+1320 The lamp cord lay tangledly beneath her chair.
+1321 The lamp cord lay in tangles beneath her chair.
+1322 Do not dress words up by adding -ly to them, as though putting a hat on a horse.
+1323 Make sure the reader knows who is speaking.
+1324 Dialogue is a total loss unless you indicate who the speaker is.
+1325 In long dialogue passages containing no attributives, the reader may become lost and be compelled to go back and reread in order to puzzle the thing out.
+1326 Obscurity is an imposition on the reader, to say nothing of its damage to the work.
+1327 In dialogue, make sure that your attributives do not awkwardly interrupt a spoken sentence.
+1328 The best test for locating an attributive is to speak the sentence aloud.
+1329 Avoid fancy words.
+1330 Do not be tempted by a twenty dollar word when there is a ten-center handy, ready and able.
+1331 Anglo-Saxon is a livelier tongue than Latin, so use Anglo-Saxon words.
+1332 In this, as in so many matters pertaining to style, one's ear must be one's guide: gut is a lustier noun than intestine, but the two words are not interchangeable, because gut is often inappropriate, being too coarse for the context.
+1333 Never call a stomach a tummy without good reason.
+1334 If you admire fancy words, if every sky is beauteous, every blonde curvaceous, every intelligent child prodigious, if you are tickled by discombobulate, you will have a bad time with Reminder 14.
+1335 What is wrong, you ask, with beauteous?
+1336 No one knows, for sure.
+1337 There is nothing wrong, really, with any word — all are good, but some are better than others.
+1338 A matter of ear, a matter of reading the books that sharpen the ear.
+1339 The line between the fancy and the plain, between the atrocious and the felicitous, is sometimes alarmingly fine.
+1340 The opening phrase of the Gettysburg address is close to the line, at least by our standards today, and Mr.
+1341 Lincoln, knowingly or unknowingly, was flirting with disaster when he wrote "Four score and seven years ago." The President could have got into his sentence with plain "Eighty-seven" — a saving of two words and less of a strain on the listeners' powers of multiplication.
+1342 But Lincoln's ear must have told him to go ahead with four score and seven.
+1343 By doing so, he achieved cadence while skirting the edge of fanciness.
+1344 Suppose he had blundered over the line and written, "In the year of our Lord seventeen hundred and seventy-six." His speech would have sustained a heavy blow.
+1345 Or suppose he had settled for "Eighty-seven." In that case he would have got into his introductory sentence too quickly; the timing would have been bad.
+1346 The question of ear is vital.
+1347 Only the writer whose ear is reliable is in a position to use bad grammar deliberately; this writer knows for sure when a colloquialism is better than formal phrasing and is able to sustain the work at a level of good taste.
+1348 So cock your ear.
+1349 Not only is the preposition acceptable at the end, sometimes it is more effective in that spot than anywhere else.
+1350 A claw hammer, not an ax, was the tool he murdered her with." This is preferable to "A claw hammer, not an ax, was the tool with which he murdered her." Why?
+1351 Because it sounds more violent, more like murder.
+1352 A matter of ear.
+1353 And would you write "The worst tennis player around here is I" or "The worst tennis player around here is me"?
+1354 The first is good grammar, the second is good judgment — although the me might not do in all contexts.
+1355 The split infinitive is another trick of rhetoric in which the ear must be quicker than the handbook.
+1356 Some infinitives seem to improve on being split, just as a stick of round stovewood does.
+1357 I cannot bring myself to really like the fellow." The sentence is relaxed, the meaning is clear, the violation is harmless and scarcely perceptible.
+1358 Put the other way, the sentence becomes stiff, needlessly formal.
+1359 A matter of ear.
+1360 There are times when the ear not only guides us through difficult situations but also saves us from minor or major embarrassments of prose.
+1361 The ear, for example, must decide when to omit that from a sentence, when to retain it.
+1362 She knew she could do it" is preferable to "She knew that she could do it" — simpler and just as clear.
+1363 But in many cases the that is needed.
+1364 Do not use dialect unless your ear is good.
+1365 Do not attempt to use dialect unless you are a devoted student of the tongue you hope to reproduce.
+1366 If you use dialect, be consistent.
+1367 The reader will become impatient or confused upon finding two or more versions of the same word or expression.
+1368 In dialect it is necessary to spell phonetically, or at least ingeniously, to capture unusual inflections.
+1369 Take, for example, the word once.
+1370 It often appears in dialect writing as oncet, but oncet looks as though it should be pronounced "onset." A better spelling would be wunst.
+1371 But if you write it oncet once, write it that way throughout.
+1372 The best dialect writers, by and large, are economical of their talents; they use the minimum, not the maximum, of deviation from the norm, thus sparing their readers as well as convincing them.
+1373 Be clear.
+1374 Clarity is not the prize in writing, nor is it always the principal mark of a good style.
+1375 There are occasions when obscurity serves a literary yearning, if not a literary purpose, and there are writers whose mien is more overcast than clear.
+1376 But since writing is communication, clarity can only be a virtue.
+1377 And although there is no substitute for merit in writing, clarity comes closest to being one.
+1378 Even to a writer who is being intentionally obscure or wild of tongue we can say, "Be obscure clearly!
+1379 Be wild of tongue in a way we can understand!" Even to writers of market letters, telling us (but not telling us) which securities are promising, we can say, "Be cagey plainly!
+1380 Be elliptical in a straightforward fashion!" Clarity, clarity, clarity.
+1381 When you become hopelessly mired in a sentence, it is best to start fresh; do not try to fight your way through against the terrible odds of syntax.
+1382 Usually what is wrong is that the construction has become too involved at some point; the sentence needs to be broken apart and replaced by two or more shorter sentences.
+1383 Muddiness is not merely a disturber of prose, it is also a destroyer of life, of hope: death on the highway caused by a badly worded road sign, heartbreak among lovers caused by a misplaced phrase in a well-intentioned letter, anguish of a traveler expecting to be met at a railroad station and not being met because of a slipshod telegram.
+1384 Think of the tragedies that are rooted in ambiguity, and be clear!
+1385 When you say something, make sure you have said it.
+1386 The chances of your having said it are only fair.
+1387 Do not inject opinion.
+1388 Unless there is a good reason for its being there, do not inject opinion into a piece of writing.
+1389 We all have opinions about almost everything, and the temptation to toss them in is great.
+1390 To air one's views gratuitously, however, is to imply that the demand for them is brisk, which may not be the case, and which, in any event, may not be relevant to the discussion.
+1391 Opinions scattered indiscriminately about leave the mark of egotism on a work.
+1392 Similarly, to air one's views at an improper time may be in bad taste.
+1393 If you have received a letter inviting you to speak at the dedication of a new cat hospital, and you hate cats, your reply, declining the invitation, does not necessarily have to cover the full range of your emotions.
+1394 You must make it clear that you will not attend, but you do not have to let fly at cats.
+1395 The writer of the letter asked a civil question; attack cats, then, only if you can do so with good humor, good taste, and in such a way that your answer will be courteous as well as responsive.
+1396 But bear in mind that your opinion of cats was not sought, only your services as a speaker.
+1397 Try to keep things straight.
+1398 Use figures of speech sparingly.
+1399 The simile is a common device and a useful one, but similes coming in rapid fire, one right on top of another, are more distracting than illuminating.
+1400 Readers need time to catch their breath; they can't be expected to compare everything with something else, and no relief in sight.
+1401 When you use metaphor, do not mix it up.
+1402 That is, don't start by calling something a swordfish and end by calling it an hourglass.
+1403 Do not take shortcuts at the cost of clarity.
+1404 Do not use initials for the names of organizations or movements unless you are certain the initials will be readily understood.
+1405 Write things out.
+1406 Not everyone knows that MADD means Mothers Against Drunk Driving, and even if everyone did, there are babies being born every minute who will someday encounter the name for the first time.
+1407 They deserve to see the words, not simply the initials.
+1408 A good rule is to start your article by writing out names in full, and then, later, when your readers have got their bearings, to shorten them.
+1409 Many shortcuts are self-defeating; they waste the reader's time instead of conserving it.
+1410 There are all sorts of rhetorical stratagems and devices that attract writers who hope to be pithy, but most of them are simply bothersome.
+1411 The longest way round is usually the shortest way home, and the one truly reliable shortcut in writing is to choose words that are strong and surefooted to carry readers on their way.
+1412 Avoid foreign languages.
+1413 The writer will occasionally find it convenient or necessary to borrow from other languages.
+1414 Some writers, however, from sheer exuberance or a desire to show off, sprinkle their work liberally with foreign expressions, with no regard for the reader's comfort.
+1415 It is a bad habit.
+1416 Write in English.
+1417 Prefer the standard to the offbeat.
+1418 Young writers will be drawn at every turn toward eccentricities in language.
+1419 They will hear the beat of new vocabularies, the exciting rhythms of special segments of their society, each speaking a language of its own.
+1420 All of us come under the spell of these unsettling drums; the problem for beginners is to listen to them, learn the words, feel the vibrations, and not be carried away.
+1421 Youths invariably speak to other youths in a tongue of their own devising: they renovate the language with a wild vigor, as they would a basement apartment.
+1422 By the time this paragraph sees print, psyched, nerd, ripoff, dude, geek, and funky will be the words of yesteryear, and we will be fielding more recent ones that have come bouncing into our speech — some of them into our dictionary as well.
+1423 A new word is always up for survival.
+1424 Many do survive.
+1425 Others grow stale and disappear.
+1426 Most are, at least in their infancy, more appropriate to conversation than to composition.
+1427 Today, the language of advertising enjoys an enormous circulation.
+1428 With its deliberate infractions of grammatical rules and its crossbreeding of the parts of speech, it profoundly influences the tongues and pens of children and adults.
+1429 Your new kitchen range is so revolutionary it obsoletes all other ranges.
+1430 Your counter top is beautiful because it is accessorized with gold-plated faucets.
+1431 Your cigarette tastes good like a cigarette should.
+1432 And, like the man says, you will want to try one.
+1433 You will also, in all probability, want to try writing that way, using that language.
+1434 You do so at your peril, for it is the language of mutilation.
+1435 Advertisers are quite understandably interested in what they call "attention getting." The man photographed must have lost an eye or grown a pink beard, or he must have three arms or be sitting wrong-end-to on a horse.
+1436 This technique is proper in its place, which is the world of selling, but the young writer had best not adopt the device of mutilation in ordinary composition, whose purpose is to engage, not paralyze, the readers senses.
+1437 Buy the gold-plated faucets if you will, but do not accessorize your prose.
+1438 To use the language well, do not begin by hacking it to bits; accept the whole body of it, cherish its classic form, its variety, and its richness.
+1439 Another segment of society that has constructed a language of its own is business.
+1440 People in business say that toner cartridges are in short supply, that they have updated the next shipment of these cartridges, and that they will finalize their recommendations at the next meeting of the board.
+1441 They are speaking a language familiar and dear to them.
+1442 We should tolerate them — every person of spirit wants to ride a white horse.
+1443 The only question is whether business vocabulary is helpful to ordinary prose.
+1444 Usually, the same ideas can be expressed less formidably, if one makes the effort.
+1445 A good many of the special words of business seem designed more to express the user's dreams than to express a precise meaning.
+1446 Not all such words, of course, can be dismissed summarily; indeed, no word in the language can be dismissed offhand by anyone who has a healthy curiosity.
+1447 Update isn't a bad word; in the right setting it is useful.
+1448 In the wrong setting, though, it is destructive, and the trouble with adopting coinages too quickly is that they will bedevil one by insinuating themselves where they do not belong.
+1449 This may sound like rhetorical snobbery, or plain stuffiness; but you will discover, in the course of your work, that the setting of a word is just as restrictive as the setting of a jewel.
+1450 The general rule here is to prefer the standard.
+1451 Finalize, for instance, is not standard; it is special, and it is a peculiarly fuzzy and silly word.
+1452 Does it mean "terminate," or does it mean "put into final form"?
+1453 One can't be sure, really, what it means, and one gets the impression that the person using it doesn't know, either, and doesn't want to know.
+1454 The special vocabularies of the law, of the military, of government are familiar to most of us.
+1455 Even the world of criticism has a modest pouch of private words (luminous, taut), whose only virtue is that they are exceptionally nimble and can escape from the garden of meaning over the wall.
+1456 Of these critical words, Wolcott Gibbs once wrote, "...
+1457 The young writer should learn to spot them — words that at first glance seem freighted with delicious meaning but that soon burst in air, leaving nothing but a memory of bright sound.
+1458 The language is perpetually in flux: it is a living stream, shifting, changing, receiving new strength from a thousand tributaries, losing old forms in the backwaters of time.
+1459 To suggest that a young writer not swim in the main stream of this turbulence would be foolish indeed, and such is not the intent of these cautionary remarks.
+1460 The intent is to suggest that in choosing between the formal and the informal, the regular and the offbeat, the general and the special, the orthodox and the heretical, the beginner err on the side of conservatism, on the side of established usage.
+1461 No idiom is taboo, no accent forbidden; there is simply a better chance of doing well if the writer holds a steady course, enters the stream of English quietly, and does not thrash about.
+1462 But," you may ask, "what if it comes natural to me to experiment rather than conform?
+1463 What if I am a pioneer, or even a genius?" Answer: then be one.
+1464 Writing good standard English is no cinch, and before you have managed it you will have encountered enough rough country to satisfy even the most adventurous spirit.
+1465 Style takes its final shape more from attitudes of mind than from principles of composition, for, as an elderly practitioner once remarked, "Writing is an act of faith, not a trick of grammar." This moral observation would have no place in a rule book were it not that style is the writer, and therefore what you are, rather than what you know, will at last determine your style.
+1466 If you write, you must believe — in the truth and worth of the scrawl, in the ability of the reader to receive and decode the message.
+1467 No one can write decently who is distrustful of the reader's intelligence, or whose attitude is patronizing.
+1468 Many references have been made in this book to "the reader," who has been much in the news.
+1469 It is now necessary to warn you that your concern for the reader must be pure: you must sympathize with the reader's plight (most readers are in trouble about half the time) but never seek to know the reader's wants.
+1470 Your whole duty as a writer is to please and satisfy yourself, and the true writer always plays to an audience of one.
+1471 Start sniffing the air, or glancing at the Trend Machine, and you are as good as dead, although you may make a nice living.
+1472 Full of belief, sustained and elevated by the power of purpose, armed with the rules of grammar, you are ready for exposure.
+1473 At this point, you may well pattern yourself on the fully exposed cow of Robert Louis Stevenson's rhyme.
+1474 This friendly and commendable animal, you may recall, was "blown by all the winds that pass /And wet with all the showers." And so must you as a young writer be.
+1475 In our modern idiom, we would say that you must get wet all over.
+1476 Mr.Stevenson, working in a plainer style, said it with felicity, and suddenly one cow, out of so many, received the gift of immortality.
+1477 Like the steadfast writer, she is at home in the wind and the rain; and, thanks to one moment of felicity, she will live on and on and on.
+1478 B.White were unique collaborators.
+1479 Unlike Gilbert and Sullivan, or Woodward and Bernstein, they worked separately and decades apart.
+1480 We have no way of knowing whether Professor Strunk took particular notice of Elwyn Brooks White, a student of his at Cornell University in 1919.
+1481 Neither teacher nor pupil could have realized that their names would be linked as they now are.
+1482 Nor could they have imagined that thirty-eight years after they met, White would take this little gem of a textbook that Strunk had written for his students, polish it, expand it, and transform it into a classic.
+1483 E.B.White shared Strunk's sympathy for the reader.
+1484 To Strunk's do's and don'ts he added passages about the power of words and the clear expression of thoughts and feelings.
+1485 To the nuts and bolts of grammar he added a rhetorical dimension.
+1486 The editors of this edition have followed in White's footsteps, once again providing fresh examples and modernizing usage where appropriate.
+1487 The Elements of Style is still a little book, small enough and important enough to carry in your pocket, as I carry mine.
+1488 It has helped me to write better.
+1489 I believe it can do the same for you.
