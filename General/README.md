@@ -16,8 +16,10 @@ appending/indexing by the meta.matrix.
 
 I like the tapply because you can see what is happening; I don't understand ```purrrlyr```,
 so I won't attempt to explain the code. Here is the apply method:
-```apply(data.matrix, 2, FUN=function(x){
-		tapply(x, meta.data[,<column of interest>], mean, na.rm=T)})```
+```
+apply(data.matrix, 2, FUN=function(x){
+		tapply(x, meta.data[,<column of interest>], mean, na.rm=T)})
+```
 
 This goes column by column ```apply(,2,)``` passing each column to ```tapply```.
 ```tapply``` somehow maps the column to the column found in meta.data we selected,
