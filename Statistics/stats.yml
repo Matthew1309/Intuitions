@@ -26,3 +26,6 @@ dependencies:
   - r-mass
   - r-leaps
   - r-glmnet
+  - jupyterlab-lsp=3.10.2
+  - jedi-language-server=0.21.0
+  - r-languageserver=0.3.14

@@ -1,10 +1,12 @@
 # Some useful Jupyterlab extensions
-https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
 I liked 
-1. Hinterland
-1. Tree filter
-1. Snippet menu
-1. Table of contents
+1. jupyterlab-lsp [originally found at](https://stackoverflow.com/questions/58445239/jupyterlab-autocomplete-without-tab)
+    1. Need to do a conda install of the jupyterlab-lsp: ```conda install -c conda-forge jupyterlab-lsp=3.10.2```
+    1. (maybe not) ```conda install -c conda-forge python-language-server```. 
+    1. ```conda install -c conda-forge jedi-language-server=0.21.0```. I've decided to use this because the pyls is pretty darn slow [this suggested jedi](https://stackoverflow.com/questions/65716529/slow-kite-autocomplete-in-jupyterlab); [this hinted that just installing would make it the default](https://github.com/pappasam/jedi-language-server/issues/55)
+    1. in the advanced settings, do not turn on continous hinting, it is annoying. Tab will now work much much faster!
+    1. The R-language server ```conda install -c conda-forge r-languageserver``` may be useful as well.
+
 
 # Instructions to help set up an R ipython kernal
 I used this to help guide me: https://stackoverflow.com/questions/68939097/how-to-use-different-versions-of-r-kernels-in-vs-code-jupyter-notebooks-when-usi
