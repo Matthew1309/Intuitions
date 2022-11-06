@@ -1,5 +1,7 @@
 # Instructions to help set up an R ipython kernal
 I used this to help guide me: https://stackoverflow.com/questions/68939097/how-to-use-different-versions-of-r-kernels-in-vs-code-jupyter-notebooks-when-usi
+To find where the kernels are (in case of unusual path creation)
+you can use the command ```jupyter kernelspec list```.
 
 
 1. Make a conda env and get r-base
