@@ -1,0 +1,21 @@
+name: arduino
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pyserial
+  - mamba
+  - matplotlib
+  - ca-certificates
+  - certifi
+  - openssl
+  - jupyterlab
+  - jupyterlab-lsp=3.10.2
+  - jedi-language-server=0.21.0
+  - ipympl
+  - pandas
+  - numpy
+  - scikit-learn
+  - statsmodels
+prefix: C:\Users\mattk\anaconda3\envs\arduino
