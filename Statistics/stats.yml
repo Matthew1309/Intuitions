@@ -26,3 +26,5 @@ dependencies:
   - r-mass
   - r-leaps
   - r-glmnet
+  - r-splines2
+  - r-data.table
