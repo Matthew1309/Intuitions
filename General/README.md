@@ -1,3 +1,7 @@
+# 4/21/2023
+I made a script to easily pull pdfs and htmls of pubmed articles. Perhaps this will be useful in the future for a machine
+learning project to produce a large language model to help me in understanding biology better :)
+
 # 6/22/2022
 I've had the issue where I'm given two matricies, one with data and one with meta
 data for the columns. The issue is how to group the data.matrix based on the info
