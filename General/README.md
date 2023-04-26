@@ -1,3 +1,13 @@
+# 4/26/2023
+I believe some python tips may be useful to note:
+1. To see all functions for an object use `dir(obj)`
+1. To get just attributes use obj.__dict__ (note it may not always work)
+1. For pandas we have
+	1. df.describe()
+	1. df.shape
+	1. df.head()
+	1. df.dtypes()
+
 # 4/21/2023
 I made a script to easily pull pdfs and htmls of pubmed articles. Perhaps this will be useful in the future for a machine
 learning project to produce a large language model to help me in understanding biology better :)
