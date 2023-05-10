@@ -14,3 +14,9 @@ That being said, I think I would like to do some of this in Python and use my ma
 I added this intitially to practice linear regression, but I now realize this is actually a classification problem! I suppose I should actually follow along with the Hastie-Tibshirani video examples and make an R module for true LR.
 
 First thing I did here was plot the corr-scat-plots like they did in the tutorial. I really like this representation!
+
+# Predicting_classes_from_gene_expression.ipynb
+I read in my dataset from GSE76118 to practice using Lasso as a logit multiclass classifier. Seems to have worked pretty
+easily. I haven't tested it on out of dataset samples, but I worry there may be some issues. I read in normalized data of the gene counts, and I'm wondering if it may be a better move to read in raw counts, and then make a standardizable way of normalization, so that any future dataset can be normalized in a similar manner.
+
+In the edX course they talk about normalizing to standard deviation (can that work here?) How does seurat normlazation work?
