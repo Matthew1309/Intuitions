@@ -60,5 +60,6 @@ This is similar to to volumnes, but lets us use data on the host's machine as in
 `docker image history --no-trunc <image code> > image_history`
 1. Run an interactive shell inside a containter with `docker run -it <imagename> sh`
 1. When a container is already running you can enter it with `docker exec -it <containerID> bash`
-    
+1. Build an image from a dockerfile with `docker build -t <name_as_you_want_to_show> -f ubuntu_server.dockerfile .`
+1. Build a container from the newly created image with something that looks like `docker run -p 8787:8787 <docker_image_name>`
 </details>
