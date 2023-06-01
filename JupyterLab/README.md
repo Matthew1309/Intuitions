@@ -1,3 +1,6 @@
+# Jupyterlab tips
+1. [Shift-Tab] will display a 'small help' window
+
 # Some useful Jupyterlab extensions
 <details open>
   <summary>Click me</summary>
