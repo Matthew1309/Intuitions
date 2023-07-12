@@ -1,5 +1,6 @@
 # Jupyterlab tips
 1. [Shift-Tab] will display a 'small help' window
+1. To get an image to show up on github and locally using a command like `<img src="https://raw.githubusercontent.com/Matthew1309/Intuitions/main/Mathematics/DiffEq/Pingpongball/basic_grav_model.png" width="150" height="150">`, it is absolutely essential for your repo to be public and to use that weird raw.githubusercontent prefix, otherwise it just doesn't show up. If some stuff in the path pop up like 'tree' or 'blob' ignore and remove those. Thanks to Jeff Heaton for his notebooks!
 
 # Some useful Jupyterlab extensions
 <details open>
