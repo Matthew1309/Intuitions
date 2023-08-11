@@ -55,3 +55,27 @@ imgplot = plt.imshow(img)
 1. Select rectangle first, image second.
 1. In the top menu click object --> clip --> set
 1. Now our image is smaller. To export it in the right hand menu select export as to set a destination. Then make sure to click export selected items only. Done.
+
+## A gimp tutorial for batch resizing images I found on my laptop
+http://warunapw.blogspot.com/2010/01/batch-resize-images-in-gimp.html
+
+From this link they use a language called Scheme, which I installed with
+Tabby using sudo apt-get scm blah blah.
+
+I think I will use the first option where they simply overwrite the photos
+with the sized down gimp photos.
+
+I need to put the script into ~/.gimp-/scripts/ directory for this to work.
+I actually put it into "/mnt/c/Documents and Settings/mattk/Application Data/GIMP/2.10/scripts"
+so lets hope this works.
+
+Didn't work so I'mma put it into "/mnt/c/Program Files/GIMP 2/share/gimp/2.0/scripts" because 
+https://daviesmediadesign.com/how-to-install-scripts-in-gimp-3-easy-steps/ told me too.
+
+That was a whole process because this folder apparently doesn't respond to sudo, so I had
+to open gitbash as administrator then make the file in there. WTF. Then the gimp wasn't in my
+PATH so I added it (it is in /mnt/c/Program\ Files/Gimp \2/bin/). 
+
+Command:
+	`gimp-2.10.exe -i -b '(batch-resize "*.JPG" 604 453)' -b '(gimp-quit 0)'`
+
