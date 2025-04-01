@@ -1,0 +1,155 @@
+---
+title: "Random Forest Practice"
+author: "Matthew Kozubov"
+date: "3/31/2025"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Background
+The random forest technique works great out of the bag and has moderate interpretability with the ability to model non-linear interactions. Here I demonstrate how to use it 
+
+## Tutorial
+### Building our environment
+```{r}
+setwd("/home/matt/Desktop/Intuitions/Statistics/Random_Forest")
+# install.packages('renv')
+library(renv)
+
+#renv::init()
+renv::load()
+
+#install.packages("randomForest", dependencies=T, quiet=T)
+#install.packages("caret", dependencies=T, quiet=T)
+#install.packages('randomForestExplainer', dependencies=T, quiet=T)
+
+#renv::snapshot()
+#renv::status()
+
+.libPaths()
+```
+
+Install necessary packages
+```{r, echo=T, results='hide', warning=FALSE}
+#
+renv::load()
+library(randomForest)
+library(caret)
+library(randomForestExplainer)
+```
+### Reading in the data and building our model
+```{r}
+#Read Data
+mydata <- read.csv("https://stats.idre.ucla.edu/stat/data/binary.csv")
+dim(mydata)
+summary(mydata)
+mydata$rank <- factor(mydata$rank)
+mydata$admit <- factor(mydata$admit, levels = c(0, 1), labels = c("reject", "accept"))
+pairs(mydata)
+```
+We split data into train and test sets
+```{r}
+set.seed(123)  # For reproducibility
+train_index <- sample(1:nrow(mydata), 0.7 * nrow(mydata))  # 70% training data
+
+train_data <- mydata[train_index, ]
+test_data <- mydata[-train_index, ]
+colnames(mydata)
+
+```
+We run random forest
+```{r}
+rf_model <- randomForest(admit ~ ., data = train_data, ntree = 500, mtry = 2, importance = TRUE)
+predictions <- predict(rf_model, newdata = test_data)
+predictions
+
+```
+### Evaluating how well the model did
+```{r}
+confusion_matrix <- table(test_data$admit, predictions)
+print(confusion_matrix)
+accuracy <- sum(diag(confusion_matrix)) / sum(confusion_matrix)
+guessing <- 1
+print(paste0("Accuracy: ", round(accuracy, 2)))
+```
+
+If the model was just guessing
+```{r}
+# Example confusion matrix from an actual model
+actual_vs_pred <- table(test_data$admit, predictions)
+
+# Compute row sums (actual class counts) and column sums (predicted class counts)
+row_sums <- rowSums(actual_vs_pred)
+col_sums <- colSums(actual_vs_pred)
+total <- sum(actual_vs_pred)
+# Expected confusion matrix under random guessing
+expected_matrix <- outer(row_sums, col_sums) / total
+# Print the expected confusion matrix
+print(expected_matrix)
+accuracy_guess <- sum(diag(expected_matrix)/total)
+print(paste0("Accuracy: ", round(accuracy_guess, 2)))
+```
+
+Is this model better than guessing? It seems the model has an overall accuracy of 0.77% with a confidence interval from 0.7-0.85ish. If you just guess the most frequent class, "No information rate", you will get 80% correct :(
+
+The Kappa measures how well the model fits actual labels (0.6 is the target). Sensitivity measures how well rejections are modelled (pretty good). Specificity measures how well acceptances are modelled (Not so good). 
+
+We modelled 87% of the rejections, but only 45% of the acceptances. (Pos Pred Value, Neg Pred Value). Balanced accuracy is the just the average of these two and tells us that we do okay.
+```{r}
+confusionMatrix(actual_vs_pred)
+```
+
+Overall this implies that the model can be trained better, or that the variables we do have do a good job modeling rejection, but not as good of a job predicting who will be accepted. To train the model better, we could adjust how we split the train/test dataset to be more balanced as there are 127 acceptances to 273 rejections.
+
+### Evaluating the model parameters
+We can also look at which variables have the most predictive power.
+
+```{r}
+importance(rf_model)
+varImpPlot(rf_model)
+
+```
+This output tells us that gre and gpa are important for determining rejections, but rank is important for both. The `meanDecreaseAccuracy` column measures how much the accuracy decreased when the variable was removed. And it looks like rank was super important with a mean decrease of 14.63! 
+
+The `MeanDecreaseGini` column is a measure of how well this variable makes pure splits in the data. GPA and GRE seems important for splitting up our data.
+
+We saw by eye from the `pairs` plot above that GRE and GPA correlated. Lets see if we can detect that these two variables interact with each other using the vignette from https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html.
+```{r}
+importance_frame <- measure_importance(rf_model)
+min_depth_frame <- min_depth_distribution(rf_model)
+```
+
+```{r}
+randomForestExplainer::plot_min_depth_distribution(min_depth_frame)  # Shows variable importance at different depths
+
+```
+
+The interpretation here is that rank in 250 trees was the 1st split and GPA and GRE were primarly the second splits in the tree with GRE primarly being the final split. When combined with the earlier `MeanDecreaseGini` we get a better picture that rank was generally the first split, then GPA and GRE seemed to fine tune our predictions and thus have better splits.
+
+To really see variable interactions we can do this
+
+```{r}
+vars <- important_variables(importance_frame, k = 5, measures = c("mean_min_depth", "no_of_trees"))
+interactions_frame <- min_depth_interactions(rf_model, vars)
+head(interactions_frame[order(interactions_frame$occurrences, decreasing = TRUE), ])
+
+```
+
+```{r}
+plot_min_depth_interactions(interactions_frame)
+```
+
+The way I interpret this is that if gpa is used, generally gre is not used. 
+
+```{r}
+plot_predict_interaction(rf_model, mydata, "gpa", "gre")
+```
+There seems to be a weak but visible trend that when gpa and gre are low the prediction is a rejection, and the converse is true when it is high. I conclude that the pairs plot after we see which variables may be interacting and which variables are the most influential may be the best way to see interactions. 
+
+
+```{r}
+sessionInfo()
+```
