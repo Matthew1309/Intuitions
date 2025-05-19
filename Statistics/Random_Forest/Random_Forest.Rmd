@@ -10,7 +10,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Background
-The random forest technique works great out of the bag and has moderate interpretability with the ability to model non-linear interactions. Here I demonstrate how to use it 
+The random forest technique works great out of the bag and has moderate interpretability with the ability to model non-linear interactions. Here I demonstrate how to use it. The main things to do is 
+- [ ] Inspect the data
+- [ ] Split the data into test and train sets
+- [ ] Train the model
+- [ ] Get an idea of how well it performs using cross-validation
+- [ ] Evaluate the models performance by looking at FP, FN, etc
+- [ ] Evaluate the performance of the model parameters
+- [ ] Evaluate a new input variable's certainty
 
 ## Tutorial
 ### Building our environment
@@ -39,8 +46,10 @@ renv::load()
 library(randomForest)
 library(caret)
 library(randomForestExplainer)
+library(dplyr)
+library(tibble)
 ```
-### Reading in the data and building our model
+### (Inspect the data) Reading in the data and building our model
 ```{r}
 #Read Data
 mydata <- read.csv("https://stats.idre.ucla.edu/stat/data/binary.csv")
@@ -50,24 +59,78 @@ mydata$rank <- factor(mydata$rank)
 mydata$admit <- factor(mydata$admit, levels = c(0, 1), labels = c("reject", "accept"))
 pairs(mydata)
 ```
-We split data into train and test sets
+### (Split the data) We split data into train and test sets
 ```{r}
 set.seed(123)  # For reproducibility
-train_index <- sample(1:nrow(mydata), 0.7 * nrow(mydata))  # 70% training data
+train_index <- sample(1:nrow(mydata), 0.7 * nrow(mydata))  # 70% training data # as.numeric(caret::createDataPartition(mydata$admit, p = 0.70, list = FALSE)) # 
 
 train_data <- mydata[train_index, ]
 test_data <- mydata[-train_index, ]
+sum(as.numeric(train_data$admit)-1)/dim(train_data)[1]
+sum(as.numeric(mydata$admit)-1)/dim(mydata)[1]
 colnames(mydata)
-
 ```
-We run random forest
+We train the random forest with this call.
 ```{r}
-rf_model <- randomForest(admit ~ ., data = train_data, ntree = 500, mtry = 2, importance = TRUE)
+set.seed(123)
+rf_model <- randomForest(admit ~ ., data = train_data, ntree = 500, mtry = 2, importance = TRUE, type='classification')
 predictions <- predict(rf_model, newdata = test_data)
 predictions
 
 ```
-### Evaluating how well the model did
+
+### (Cross-validation) Evaluating how well the model did
+The mtry hyper-parameter determines how many of the entire set of variables is a candidate for being a node on the tree. 2 means that 2/3 of the total parameters are randomly selected to be considered. Adds more variablility to my trees and makes them less homogenous! 
+```{r}
+# Defining a custom metric of false positives or false negatives
+custom_metric <- function(data, lev = levels(data$obs), model = NULL) {
+  # browser()
+  cm <- table(Predicted = data$pred, Actual = data$obs)
+
+  # Extract FN and FP from confusion matrix
+  TP <- cm[2,2] # Actual acceptances
+  TN <- cm[1,1] # Actual rejections
+  FN <- cm[1, 2]  # False Negatives: Predicted 0, Actual 1
+  FP <- cm[2, 1]  # False Positives: Predicted 1, Actual 0
+
+  total <- sum(cm)
+  accuracy <- (TP + TN)/total
+  
+  # Compute Kappa manually
+  expected_acc <- ((TP + FP) * (TP + FN) + (TN + FP) * (TN + FN)) / (total^2)
+  kappa <- (accuracy - expected_acc) / (1 - expected_acc)
+  
+  return(c(FP = FP, FN = FN, Accuracy = accuracy, Kappa = kappa))
+}
+
+# Setting the random forest parameter mtry to be tested for 1-3 vars
+tune_grid <- expand.grid(mtry = 1:3)
+
+# Define cross-validation settings (e.g., 5-fold CV)
+cv_control <- trainControl(method = "cv", number = 5, summaryFunction = custom_metric) # trainControl(method = "LOOCV")
+
+# Train Random Forest with CV
+rf_cv_model <- caret::train(
+  admit ~ ., 
+  data = train_data, 
+  method = "rf", 
+  tuneGrid = tune_grid,
+  metric = 'Accuracy',
+  trControl = cv_control
+)
+
+print(rf_cv_model$resample)
+table(predict(object = rf_cv_model, test_data), test_data$admit)
+print(paste0("Accuracy: ", round(mean(rf_cv_model$resample$Accuracy),3), "+/-", round(sd(rf_cv_model$resample$Accuracy),3)))
+# Print results
+print(rf_cv_model)
+```
+Seems like with my 5-fold CV the mtry of 2 produced best results.
+
+This is all to show that the model performs okay and that the optimization function should be on accuracy because otherwise it just guesses all negatives and does 'better'. Our first model with an accuracy of 0.77 got lucky because of how the training and split was made. In general this method barely outperforms guessing. 
+
+### (Evaluate the model performance) Looking at FN/FP and accuracy
+
 ```{r}
 confusion_matrix <- table(test_data$admit, predictions)
 print(confusion_matrix)
@@ -99,12 +162,12 @@ The Kappa measures how well the model fits actual labels (0.6 is the target). Se
 
 We modelled 87% of the rejections, but only 45% of the acceptances. (Pos Pred Value, Neg Pred Value). Balanced accuracy is the just the average of these two and tells us that we do okay.
 ```{r}
-confusionMatrix(actual_vs_pred)
+caret::confusionMatrix(actual_vs_pred)
 ```
 
 Overall this implies that the model can be trained better, or that the variables we do have do a good job modeling rejection, but not as good of a job predicting who will be accepted. To train the model better, we could adjust how we split the train/test dataset to be more balanced as there are 127 acceptances to 273 rejections.
 
-### Evaluating the model parameters
+### (Usefulness of factors) Evaluating the model parameters
 We can also look at which variables have the most predictive power.
 
 ```{r}
@@ -149,6 +212,39 @@ plot_predict_interaction(rf_model, mydata, "gpa", "gre")
 ```
 There seems to be a weak but visible trend that when gpa and gre are low the prediction is a rejection, and the converse is true when it is high. I conclude that the pairs plot after we see which variables may be interacting and which variables are the most influential may be the best way to see interactions. 
 
+### Evaluating the spread of our predictions
+Random forests by design have a way to output how certain they are of their predictions. Because the final answer is the consensus among many trees, if we output the raw votes, the answer will be the mean and our uncertainy would be the tree's spread. Reading the [randomForest documentation](https://www.rdocumentation.org/packages/randomForest/versions/4.7-1.2/topics/randomForest)
+
+```{r}
+votes_matrix <- predict(rf_model, test_data, type = "vote")
+# bernoilli SD = p*q
+# Add a new column by multiplying "reject" and "accept"
+votes_matrix <- cbind(votes_matrix, var = votes_matrix[,"reject"] * votes_matrix[,"accept"])
+votes_matrix <- cbind(votes_matrix, sd = sqrt(votes_matrix[,"var"]))
+
+data_with_result <- votes_matrix %>% as.data.frame() %>%
+    mutate(
+    reject_argmax = case_when(
+      reject > accept ~ 0,
+      TRUE ~ 1
+    )
+  )
+
+data_with_result$reject_argmax <- factor(data_with_result$reject_argmax, levels = c(0, 1), labels = c("reject", "accept"))
+data_with_result$truth <- test_data$admit
+data_with_result
+```
+As we can see just voting yes or no is not enough, we need to understand how certain the model was. Let us plot the vote by standard deviation and color by truth.
+
+What this seems to tells us that as we get more certain about rejecting a student, the model seems better, but for acceptance it is still a guess no matter what. The heavily implies that there is something other than grades and ranking that leads to an acceptance into UCLA, but they are the bare minimum required of just getting the foot in the door.
+
+```{r}
+ggplot(data_with_result, aes(x = sd, y = reject, color = truth)) +
+  geom_point(size = 3) +
+  labs(x = "Standard Deviation (sd)", y = "Reject prop", title = "Plot of reject_argmax vs. sd colored by truth") +
+  theme_minimal() +
+  scale_color_manual(values = c("reject" = "red", "accept" = "blue"))
+```
 
 ```{r}
 sessionInfo()
